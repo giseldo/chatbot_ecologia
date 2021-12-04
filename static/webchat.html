@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-    <title>Chatbot COVID TIPS</title>
+    <title>Chatbot ECOLE</title>
 
     <meta charset="utf-8">
 
@@ -22,7 +22,7 @@
 <body>
 
 <div class="d-none d-md-block">
-    <header><h4>CHATBOT COVID TIPS </h4></header>
+    <header><h4>CHATBOT EWCOLE </h4></header>
 </div>
 
 <div class="columnsContainer">
@@ -30,7 +30,7 @@
     <div class="leftColumn">
         <div id="formwrapper">
             <div id="menu">
-                <p class="welcome"><h5>COVID TIPS (versão 0.3)</h5><b></b></p>
+                <p class="welcome"><h5>EWCOLE (beta)</h5><b></b></p>
             </div>
 
             <div id="chatbox"></div>
@@ -55,42 +55,15 @@
 <hr/>
         <div class="d-none d-md-block">
             <input type="checkbox" id="checkcomvoz" name="checkcomvoz" value="voz ativa"/>
-            <label for="checkcomvoz">voz ativa</label>
+            <label for="checkcomvoz">voz do avatar ativa</label>
         </div>
 
         <div class="d-none d-md-block">
             <input type="checkbox" id="checkcomavatar" name="checkcomavatar" value="voz ativa"/>
-            <label for="checkcomvoz">avatar ativo</label>
+            <label for="checkcomvoz">movimento do avatar ativo</label>
         </div>
 <hr/>
-        <div id="upload" class="d-none d-md-block">
-            <form action="uploader" method="POST"
-                  enctype="multipart/form-data">
-                <input type="file" name="file" value="load .bpmn"/>
-                <p></p>
-                <input type="submit" value="upload"/>
-            </form>
-        </div>
-<hr/>
-        <form action="downloadaiml" method="POST"
-                  enctype="multipart/form-data">
-                <input type="submit" value="download .aiml"/>
-        </form>
-<hr/>
-        <form action="downloadbpmn" method="POST"
-                  enctype="multipart/form-data">
-                <input type="submit" value="download .bpmn"/>
-        </form>
-<hr/>
-        <div id="apagar" class="d-none d-md-block">
-            <form action="apagar" method="POST"
-                  enctype="multipart/form-data">
-                <input type="submit" value="delete files"/>
-            </form>
-        </div>
-
-    </div>
-
+  
 </div>
 
 <script src="https://unpkg.com/speech-to-text@0.7.4/lib/index.js"></script>
