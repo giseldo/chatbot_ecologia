@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    
+  <category>
+    <pattern># QUE * SUCESSÃO ECOLÓGICA
+</pattern>
+    <template> <random>
+        <li>É o processo gradual de mudanças da estrutura e composição de uma comunidade.
+</li>
+        <li>É um processo gradual e progressivo de mudanças na comunidade de um ecossistema até que se estabeleça uma comunidade clímax.
+</li>
+<li>A sucessão ecológica é uma sequência de alterações graduais e progressivas na comunidade de um ecossistema, as quais podem ocorrer após uma pertubação ou após o surgimento de um novo habitat.
+</li>
+    </random></template>
+  </category>
+  
+  
+  <category>
+      <pattern># TIPOS # SUCESSÃO ECOLÓGICA</pattern>
+          <template> <random>
+              <li>A sucessão ecológica pode ser primária ou secundária.
+</li>
+<li>A sucessão ecológica tem dois tipos, primária e secundária.
+</li>
+<li>Ela pode ser classificada em dois tipos: primária e secundária.
+</li>
+          </random></template>
+  </category>
+  
+  <category>
+      <pattern># QUE * SUCESSÃO AUTOGÊNICA</pattern>
+          <template> <random>
+              <li>É provocada por mudanças originadas por processos biológicos internos ao ecossistema.
+</li>
+<li>Quando perturbações internas decorrente de processos biológicos promovem os eventos de sucessão;
+</li>
+          </random></template>
+  </category>
+  
+   <category>
+      <pattern># QUE * SUCESSÃO ALOGÊNICA</pattern>
+          <template> <random>
+              <li>Quando ocorrem perturbações externas ao ecossistema que acarretam aos eventos de sucessão ecológica. 
+</li>
+<li>Quando ocorrem mudanças por forças externas ao ecossistema, como tempestades, incêndios e processos geológicos.
+</li>
+          </random></template>
+  </category>
+  
+   <category>
+      <pattern># DIFERENÇA # SUCESSÃO AUTOGÊNICA * ALOGÊNICA</pattern>
+          <template> <random>
+              <li>A autogênica é provocada por processos internos, já a alogênica é provocada por processos externos.
+</li>
+<li>A sucessão autogênica ocorre quando há perturbações internas, e a alogênica ocorre quando há perturbações externas;
+</li>
+          </random></template>
+  </category>
+
+  <category>
+      <pattern># TIPOS * CLÍMAX</pattern>
+          <template> <random>
+              <li>Existe o clímax transitório e o clímax cíclico.</li>
+              <li>Existem dois tipos de clímax, o transitório e o cíclico.</li>
+          </random></template>
+  </category>
+  
+  <category>
+      <pattern># QUE * CLÍMAX TRANSITÓRIO</pattern>
+          <template> <random>
+              <li>Quando o equilíbrio da comunidade só é atingido por um tempo determinado, ou seja, é esperado um novo evento de perturbação nessa área.
+</li>
+<li>Como o próprio nome já diz, é transitório, então só fica por um tempo determinado.</li>
+          </random></template>
+  </category>
+  
+  <category>
+      <pattern># QUE * CLÍMAX CÍCLICO</pattern>
+          <template> <random>
+              <li>Quando as comunidades presentes revezam entre si pela permanência em um habitat, possuindo, dessa forma, uma permanência cíclica, assim uma necessita da outra para permanecer em conjunto.
+</li>
+<li>É quando ocorre revezamento das comunidades pela permanência em um habitat.
+</li>
+          </random></template>
+  </category>
+  
+  <category>
+      <pattern># QUE * SUCESSÃO # PRIMÁRIA</pattern>
+          <template> <random>
+              <li>A sucessão ecológica primária acontece em ambientes que anteriormente não haviam sido ocupados por outros organismos, ou seja, em áreas praticamente sem vida.
+</li>
+<li>Ocorre em ambientes que nunca antes foram ocupados por uma comunidade.</li>
+<li>É a sucessão que ocorre em locais que não eram ocupados antes por outros organismos.</li>
+          </random></template>
+  </category>
+  
+   <category>
+      <pattern># QUE * SUCESSÃO # SECUNDÁRIA</pattern>
+          <template> <random>
+              <li>A sucessão ecológica secundária acontece em áreas que já apresentaram uma comunidade. Nesse caso o que se observa é que aquela área sofreu algum tipo de distúrbio, o que causou a destruição de sua comunidade original.
+</li>
+<li>Diferente da primária, a sucessão secundária é quando o local já era habitado anteriormente, porém, não possui mais a comunidade original.
+</li>
+<li>A sucessão secundária ocorre em substratos que já foram anteriormente ocupados por uma comunidade biológica. Por isso, apresentam mais condições para o estabelecimento de seres vivos.
+</li>
+          </random></template>
+  </category>
+  
+</aiml>
