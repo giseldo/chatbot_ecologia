@@ -1,0 +1,85 @@
+ <category>
+        <pattern> * POLUIÇÃO #</pattern>
+    <template>
+        <random>
+        <li>É a desarmonia  de energia  e substância, na natureza, tendo vários tipos. </li>
+        <li> É a desarmonia  de energia  e substância, na natureza, tendo vários tipos.</li> 
+        <li> Provocada pelo homem, em sua grande parte, é o desequilíbrio do meio ambiente.  </li>
+        </random>
+    </template>
+  </category>
+
+
+    <category>
+    <pattern># TIPOS * POLUIÇÃO #</pattern>
+    <template>
+        <random>
+        <li>Existem vários tipos de poluição, sendo as mais comuns: Poluição hídrica, atmosférica, sonora, luminosa, radioativa e a do solo. </li>
+        <li>É o  desequilíbrio do nosso meio, podendo ter vários efeitos em cadeia, no ar, água e solo. </li> 
+        <li> A poluição pode ocorrer principalmente no solo,ar e água. </li>
+        </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern> * CONSEQUÊNCIAS DA POLUIÇÃO # </pattern>
+    <template>
+        <random>
+        <li>As consequências podem ser diversas, podendo afetar toda uma cadeia, podendo haver  contaminação do ar, água e do solo. </li>
+        <li>Pode causar a morte de vários animais e doenças a nós humanos, por causa da contaminação. </li> 
+        <li>A poluição afeta mais os animais vulneráveis,  podendo causar a sua morte e até extinção, nós seres humanos, podemos ter doenças e, em casos graves, vim a falecer.   </li>
+        </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* PIOR # POLUIÇÃO # </pattern>
+    <template>
+        <random>
+        <li>O pior tipo de poluição é a radioativa, pois é a mais nociva para a nossa saúde. </li>
+        <li>É  relacionada à radioatividade! </li> 
+        <li>O tipo mais maligno de poluição é a radioativa!</li>
+        </random>
+    </template>
+  </category>
+  
+  <category>
+        <pattern>* POLUIÇÃO # ATMOSFÉRICA #</pattern>
+    <template>
+        <random>
+        <li>Ela refere-se à poluição do ar, tendo várias consequências negativas, para todo o ecossistema.  </li>
+        <li>Se diz aos poluentes do ar atmosférico, que prejudicam a nossa saúde. </li> 
+        <li>A poluição atmosférica pode ser uma das mais nocivas, pois ela está ligada ao ar que respiramos, o tornando poluído. </li>
+        </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* POLUIÇÃO # AR #</pattern>
+    <template>
+         <srai> * POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* ORIGEM # POLUIÇÃO ATMOSFÉRICA # </pattern>
+    <template>
+        <random>
+        <li>Ela se origina da ação dos seres humanos, pois vocês despejam produtos químicos e tóxicos no meio ambiente. </li>
+        <li>Isso ocorre por causa da introdução de tóxicos no ar, sendo o causador desse problema o homem.  </li> 
+        <li>A poluição da atmosfera tem como o sua origem os químicos despejados no ar, por ação humana.</li>
+        </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* ORIGEM # POLUIÇÃO DO AR #  </pattern>
+    <template>
+        <random>
+        <li>Ela se origina da ação dos seres humanos, pois vocês despejam produtos químicos e tóxicos no meio ambiente. </li>
+        <li>Isso ocorre por causa da introdução de tóxicos no ar, sendo o causador desse problema o homem.  </li> 
+        <li>A poluição da atmosfera tem como o sua origem os químicos despejados no ar, por ação humana.</li>
+        </random>
+    </template>
+  </category>
+
