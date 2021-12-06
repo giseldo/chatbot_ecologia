@@ -318,5 +318,5 @@ def delete_files():
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='10.1.0.4', port=80)
     # app.run(host='127.0.0.1')
