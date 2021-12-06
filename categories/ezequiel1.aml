@@ -1,3 +1,4 @@
+  <aiml>
  <category>
         <pattern> * POLUIÇÃO #</pattern>
     <template>
@@ -82,4 +83,4 @@
         </random>
     </template>
   </category>
-
+<aiml>
