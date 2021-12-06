@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>Olá</pattern>
+	    <template>
+	        <random>
+	            <li>Eae estudante, tudo bom?</li>
+	            <li>Opa, tudo bom?</li>
+	            <li>Olá amigo(a), tudo bom?</li>
+	            <li>Opa, tudo bom?</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>tudo sim</pattern>
+        <template>O que deseja saber sobre ciclos biogeoquímicos?</template>
+    </category>
+    
+    <category>
+        <pattern>tudo sim, * você</pattern>
+        <template>Tudo ótimo, o que deseja saber sobre ciclos biogeoquímicos?</template>
+    </category>
+    
+	<category>
+	    <pattern>* ciclos biogeoquimicos</pattern>
+	    <template>
+	        <random>
+	            <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
+                <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulem pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
+                <li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>
+                <li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>* ciclos biogeoquímicos</pattern>
+	    <template>
+	        <random>
+	            <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
+                <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulem pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
+                <li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>
+                <li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>* fatores *  ocorra * ciclo biogeoquímico</pattern>
+        <template>É necessário um reservatório do elemento químico (atmosfera, hidrosfera ou crosta terrestre); existência de seres vivos e  movimentação do elemento químico pelo meio ambiente e pelos seres vivos de um ecossistema.</template>
+    </category>
+    
+    <category>
+        <pattern>* classificações * ciclos biogeoquímicos</pattern>
+        <template>Os ciclos biogeoquímicos podem ser classificados em dois grupos principais: gasosos e sedimentares.</template>
+    </category>
+    
+    <category>
+        <pattern>* acontece * ciclo biogeoquímico</pattern>
+        <template>Durante um ciclo biogeoquímico, os elementos são absorvidos por seres vivos e são responsáveis por várias e diferentes reações químicas fundamentais para a sobrevivência desses organismos. </template>
+    </category>
+    
+    <category>
+        <pattern>* ciclo biogeoquímico gasoso</pattern>
+        <template>O ciclo gasoso é aquele que possui como reservatório principal do elemento a atmosfera.</template>
+    </category>
+    
+    <category>
+        <pattern>* ciclo biogeoquímico sedimentar</pattern>
+        <template> O ciclo sedimentar é aquele que o principal reservatório é a crosta terrestre.</template>
+    </category>
+    
+    <category>
+        <pattern>fale sobre ciclos biogeoquímicos</pattern>
+        <template>
+            <random>
+                <li>Os ciclos biogeoquímicos compreendem os processos pelos quais os organismos retiram os elementos químicos ou compostos da natureza para serem utilizados por eles, devolvendo-os em seguida ao ambiente.</li>
+                <li>O homem também exerce um importante papel nos ciclos biogeoquímicos. Por meio de certas atividades, como a agropecuária, o homem consegue alterar a dinâmica natural de um ecossistema, modificando as vias seguidas por determinado elemento no ciclo.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>fatores * velocidade * ciclos biogeoquímicos</pattern>
+        <template>A natureza do elemento que participa do ciclo,</template>
+    </category>
+</aiml>
