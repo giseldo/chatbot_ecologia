@@ -64,7 +64,34 @@
             <label for="checkcomvoz">movimento do avatar ativo</label>
         </div>
 <hr/>
-  
+  <div id="upload" class="d-none d-md-block">
+            <form action="uploader" method="POST"
+                  enctype="multipart/form-data">
+                <input type="file" name="file" value="load .bpmn"/>
+                <p></p>
+                <input type="submit" value="upload"/>
+            </form>
+        </div>
+<hr/>
+        <form action="downloadaiml" method="POST"
+                  enctype="multipart/form-data">
+                <input type="submit" value="download .aiml"/>
+        </form>
+<hr/>
+        <form action="downloadbpmn" method="POST"
+                  enctype="multipart/form-data">
+                <input type="submit" value="download .bpmn"/>
+        </form>
+<hr/>
+        <div id="apagar" class="d-none d-md-block">
+            <form action="apagar" method="POST"
+                  enctype="multipart/form-data">
+                <input type="submit" value="delete files"/>
+            </form>
+        </div>
+
+            
+            
 </div>
 
 <script src="https://unpkg.com/speech-to-text@0.7.4/lib/index.js"></script>
