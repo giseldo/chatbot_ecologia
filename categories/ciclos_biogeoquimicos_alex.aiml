@@ -26,10 +26,10 @@
 	    <pattern>* ciclos biogeoquimicos</pattern>
 	    <template>
 	        <random>
-	            <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
-                <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulem pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
-                <li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>
-                <li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+	        	<li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
+                	<li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulem pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
+                	<li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>
+                	<li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
 	        </random>
 	    </template>
     </category>
