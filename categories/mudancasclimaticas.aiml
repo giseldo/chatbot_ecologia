@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+	    <pattern>Olá</pattern>
+	    <template>
+	        <random>
+	            <li>Eae estudante, tudo bom?</li>
+	            <li>Opa, tudo bom?</li>
+	            <li>Olá amigo(a), tudo bom?</li>
+	            <li>Opa, tudo bom?</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>tudo sim</pattern>
+        <template>O que deseja saber sobre mudanças climáticas?</template>
+    </category>
+    
+    <category>
+        <pattern>tudo sim, * você</pattern>
+        <template>Tudo ótimo, o que deseja saber sobre mudanças climáticas?</template>
+    </category>
+    	
+	<category>
+	    <pattern>* mudanças climáticas</pattern>
+	    <template>
+	        <random>
+	            <li>Alterações no clima global que ocorrem como resultado de interferências que tanto podem ter origem natural, como alterações na radiação solar e dos movimentos orbitais da Terra, quanto de atividades humanas</li>
+	            <li>Mudanças climáticas são alterações provocadas nos padrões climáticos a longo prazo com base nas alternâncias meteorológicas</li>
+	            <li>As mudanças climáticas englobam tanto as alterações causadas pela natureza, quanto pelo homem.</li>
+	            <li>A Cadeia Alimentar é o percurso de matéria e energia que se inicia sempre com seres produtores e termina nos decompositores</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>* causa as mudanças climáticas</pattern>
+        <template>
+            <random>
+                <li>Elas podem ser causadas por processos naturais e também pela ação do homem.</li>
+                <li>As causas podem ser naturais ou antrópicas</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>cite * causas naturais * mudanças climáticas</pattern>
+        <template>Tais como: incidência solar, variação da órbita da terra, anomalias de temperatura, atividade vulcânica, etc.</template>
+    </category>
+    
+    <category>
+        <pattern>cite * causas antrópicas * mudanças climáticas</pattern>
+        <template>Tais como: queima de combustíveis fósseis, aumento do desmatamento, emissão de gases poluente, poluição do solo, etc.</template>
+    </category>
+    
+    <category>
+        <pattern>* IPCC</pattern>
+        <template>
+            <random>
+                <li>IPCC é a sigla em inglês de Intergovernamental Panel on Climate Change. Em português, ele é chamado de Painel Intergovernamental sobre Mudanças Climáticas.</li>
+                <li>O Painel Intergovernamental sobre Mudanças Climáticas (IPCC) é um órgão criado com o objetivo principal de fazer avaliações a respeito das mudanças climáticas.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>* a temperatura aumentou</pattern>
+        <template>O consumo exagerado e a produção elevada, além de aumentar a exploração dos recursos naturais, provocaram também o aumento da poluição atmosférica, por causa da emissão gases poluentes pelas indústrias e automóveis.</template>
+    </category>
+    
+    <category>
+        <pattern>* função do IPCC</pattern>
+        <template>O IPCC elabora Relatórios de Avaliação abrangentes sobre o estado da arte científico, técnico e socioeconômico da mudança do clima, seus impactos e riscos futuros e das opções para reduzir a taxa na qual as mudanças climáticas estão ocorrendo.</template>
+    </category>
+    <category>
+        <pattern>* efeito estufa</pattern>
+        <template>Quando se fala em efeito estufa, muitas pessoas associam a algo ruim, mas ele é essencial à manutenção da vida na Terra. O problema é que esse processo natural que mantém a temperatura média da Terra tem sido agravado principalmente pela ação humana. Além disso também poderão causar grandes secas, que afetarão ativamente a agricultura, ocasionando diversos problemas em relação à produção de alimentos.  </template>
+    </category>
+    
+    <category>
+        <pattern>* consequências * aumento da temperatura</pattern>
+        <template>Uma das consequências do aumento da temperatura do planeta é o aumento do nível do mar, que ocorre em virtude do degelo das geleiras.</template>
+    </category>
+</aiml>
