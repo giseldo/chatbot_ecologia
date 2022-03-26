@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+
+	<category>
+	    <pattern> # ciclos biogeoquimicos # </pattern>
+	    <template>
+	        <random>
+    	    <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
+            <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulam pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
+        	<li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>
+        	<li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+	        </random>
+	    </template>
+    </category>
+    
+    
+    <category>
+        <pattern> # ciclos bioquímicos # </pattern>
+	    <template>
+	        <random>
+            <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>                <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulam pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
+            <li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>                     <li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+        <pattern> # fatores # ocorra # ciclo bioquímico # </pattern>
+        <template> É necessário um reservatório do elemento químico (atmosfera, hidrosfera ou crosta terrestre); existência de seres vivos e  movimentação do elemento químico pelo meio ambiente e pelos seres vivos de um ecossistema.</template>
+    </category>
+    
+    <category>
+        <pattern> # classificações # ciclos bioquímicos # </pattern>
+        <template>Os ciclos biogeoquímicos podem ser classificados em dois grupos principais: gasosos e sedimentares.</template>
+    </category>
+    
+    <category>
+        <pattern> # acontece # ciclo bioquímico # </pattern>
+        <template>Durante um ciclo biogeoquímico, os elementos são absorvidos por seres vivos e são responsáveis por várias e diferentes reações químicas fundamentais para a sobrevivência desses organismos. </template>
+    </category>
+    
+    <category>
+        <pattern> # ciclo bioquímico gasoso # </pattern>
+        <template>O ciclo gasoso é aquele que possui como reservatório principal do elemento a atmosfera.</template>
+    </category>
+    
+    <category>
+        <pattern> # ciclo bioquímico sedimentar # </pattern>
+        <template> O ciclo sedimentar é aquele que o principal reservatório é a crosta terrestre.</template>
+    </category>
+
+
+</aiml>

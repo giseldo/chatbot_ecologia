@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml>
+
+ 
+  <category>
+    <pattern> # BIOMAS # MUNDO # </pattern>
+    <template>
+        <random>
+        <li> Existem vários biomas no nosso planeta, porém os 8 biomas em destaque são: Tundra, Taiga, Floresta Temperada, Floresta Equatorial, Floresta Tropical, Savanas e Campos.  
+</li>
+        <li> Tem muitos biomas no mundo, mas os 8 principais são: Campos, Deserto, Floresta Equatorial, Floresta Temperada, Floresta Tropical, Savanas, Taiga e Tundra.
+</li> 
+        <li> Encontra-se diversos biomas no mundo, entretanto existem 8 biomas distintos que são: Tundra, Taiga, Savanas, Floresta Tropical, Floresta Temperada, Floresta Equatorial, Deserto e Campos.
+</li>    
+        </random>
+    </template>
+  </category>  
+   
+ 
+  
+  <category>
+    <pattern> # BIOMAS # BRASIL # </pattern>
+    <template>
+        <random>
+        <li> São 6 biomas distintos do Brasil, que são a Amazônia, Mata Atlântica, Cerrado, Caatinga, Pampa e Pantanal. É claro que existem mais biomas, mas esse são os maiores e mais importantes biomas brasileiros.
+</li>
+        <li> Existem 9 biomas principais brasileiros, os quais são Caatinga, Campos, Cerrado, Floresta Amazônica, Mata Atlântica, Mata de Araucária, Mata de Cocais, Pantanal, Zonas Litorâneas.
+</li> 
+        <li> No Brasil tem 6 biomas em destaque: Amazônia, Mata Atlântica, Cerrado, Caatinga, Pampa e Pantanal. Além de ter outros biomas como: a mata Araucária, Mata de Cocais e Zonas Litorâneas.
+</li>    
+        </random>
+    </template>
+  </category>  
+ 
+  
+    
+  <category>
+    <pattern> # BIOMAS # NORDESTE # </pattern>
+    <template>
+        <random>
+        <li> No nordeste brasileiro tem 4 biomas distintos, que são a Caatinga, Cerrado, Mata Atlântica e a Floresta Amazônia. Porém ainda existem outros biomas menores no nordeste como: Mata de Cocais e Zonas Litorâneas.
+</li>
+        <li> Encontra-se 6 biomas principais da região nordeste: Caatinga, Cerrado, Mata Atlântica, Floresta Amazônica, Mata de Cocais e Zonas Litorâneas.
+</li> 
+        <li> Existem 4 biomas em destaques no nordeste brasileiro e 2 biomas um pouco menores, os quais são respectivamente a Caatinga, Cerrado, Mata Atlântica, a Floresta Amazônia, Mata de Cocais e Zonas Litorâneas.
+</li>    
+        </random>
+    </template>
+  </category>  
+
+
+  
+  <category>
+    <pattern> # BIOMAS # SUDESTE # </pattern>
+    <template>
+        <random>
+        <li> Existem 3 biomas distintos e 3 biomas um pouco menores no sudeste brasileiro, os quais são respectivamente a Mata Atlântica, Cerrado, Caatinga, Campos, Mata de Araucária e Zonas Litorâneas.
+</li>
+        <li> Encontra-se 6 biomas principais na região sudeste: Mata Atlântica, Cerrado, Campos, Mata de Araucária, Caatinga e Zonas Litorâneas.
+</li> 
+        <li> Na região sudeste tem 6 biomas, em destaque, que são a Mata Atlântica, Cerrado, Campos, Mata de Araucária, Caatinga e as Zonas Litorâneas.
+</li>    
+        </random>
+    </template>
+  </category>  
+ 
+
+  
+   <category>
+    <pattern> # BIOMAS # NORTE # </pattern>
+    <template>
+        <random>
+        <li> No norte do Brasil tem 4 biomas, em destaque, que são a Amazônia, Cerrado, Campos e Zonas Litorâneas. O bioma com maior destaque é a Amazônia.
+</li>
+        <li> Existem 4 biomas principais no norte brasileiro, os quais a Amazônia, Cerrado, Campos e Zonas Litorâneas. Entre esses biomas o mais importante é a Amazônia.
+</li> 
+        <li> Encontra-se 4 biomas distintos na região norte: a Amazônia, Cerrado, Campos e Zonas Litorâneas. Sendo a Amazônia o maior bioma.
+</li>    
+        </random>
+    </template>
+  </category>
+ 
+
+  
+   <category>
+    <pattern> # BIOMAS # SUL # </pattern>
+    <template>
+        <random>
+        <li> No sul do Brasil tem 5 biomas principais: Mata Araucária, Pampas, Mata Atlântica, Cerrado e Zonas Litorâneas. 
+</li>
+        <li> Encontra-se 5 biomas distintos na região sul, os quais são a Mata Araucária, Pampas, Mata Atlântica, Cerrado e Zonas Litorâneas. 
+</li> 
+        <li> Existem 5 biomas em destaque no sul brasileiro, que são a Mata Araucária, Pampas, Mata Atlântica, Cerrado e Zonas Litorâneas.
+</li>    
+        </random>
+    </template>
+  </category>
+ 
+
+    
+   <category>
+    <pattern> # BIOMAS # CENTRO OESTE # </pattern>
+    <template>
+        <random>
+        <li> No centro-oeste do Brasil tem 3 biomas principais: Cerrado, Pantanal e Floresta Amazônica.
+</li>
+        <li> Encontra-se 3 biomas distintos na região centro-oeste, os quais são o Cerrado, Pantanal e Floresta Amazônica.
+</li> 
+        <li> Existem 3 biomas em destaque no centro-oeste brasileiro, que são o Cerrado, Pantanal e Floresta Amazônica.
+</li>    
+        </random>
+    </template>
+  </category>
+ 
+ 
+   <category>
+    <pattern> # BIOMAS # CENTRO-OESTE # </pattern>
+    <template>
+        <srai> # BIOMAS # CENTRO OESTE # </srai>
+    </template>
+  </category>
+ 
+     
+   <category>
+    <pattern> # BIOMAS # AMÉRICA DO SUL # </pattern>
+    <template>
+        <random>
+        <li> Na América do Sul encontram-se diversos biomas, entre eles 7 biomas em destaque, os quais são o Deserto, Pradarias, Chaparral, Florestas Tropicais, Florestas Temperadas, Savanas e Pantanal.
+</li>
+        <li> Na América do Sul existem vários biomas, entre eles 7 biomas principais, que são o Deserto, Pradarias, Chaparral, Florestas Tropicais, Florestas Temperadas, Savanas e Pantanal.
+</li> 
+        <li> Na América do Sul tem muitos biomas, entre eles 7 biomas distintos, que são o Deserto, Pradarias, Chaparral, Florestas Tropicais, Florestas Temperadas, Savanas e Pantanal.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+ 
+     
+   <category>
+    <pattern> # BIOMAS # AMERICA DO SUL # </pattern>
+    <template>
+        <srai> # BIOMAS # AMÉRICA DO SUL # </srai>
+    </template>
+  </category>
+ 
+      
+
+   <category>
+    <pattern> # BIOMAS # AMÉRICA DO NORTE # </pattern>
+    <template>
+        <random>
+        <li> Na América do Norte tem muitos biomas, entre eles 6 biomas distintos, que são o Deserto, Pradarias, Floresta Temperada, Chaparral, Tundra e Taiga.
+</li>
+        <li> Na América do Norte existem vários biomas, entre eles 6 biomas principais, que são o Deserto, Pradarias, Floresta Temperada, Chaparral, Tundra e Taiga.
+</li> 
+        <li> Na América do Norte encontram-se diversos biomas, entre eles 6 biomas em destaque, os quais são o Deserto, Pradarias, Floresta Temperada, Chaparral, Tundra e Taiga.
+</li>    
+        </random>
+    </template>
+  </category>
+ 
+        
+
+   <category>
+    <pattern> # BIOMAS # AMERICA DO NORTE # </pattern>
+    <template>
+        <srai> # BIOMAS # AMÉRICA DO NORTE # </srai>
+    </template>
+  </category>
+ 
+        
+ 
+   <category>
+    <pattern> # BIOMAS # AMÉRICA LATINA # </pattern>
+    <template>
+        <random>
+        <li> Na América Latina tem muitos biomas, entre eles 8 biomas distintos, que são o Deserto, Pradarias, Florestas Tropicais, Florestas Temperadas, Chaparral, Savanas e Pantanal.
+</li>
+        <li> Na América Latina existem vários biomas, entre eles 8 biomas principais, que são o Deserto, Pradarias, Florestas Tropicais, Florestas Temperadas, Chaparral, Savanas e Pantanal.
+</li> 
+        <li> Na América Latina encontram-se diversos biomas, entre eles 8 biomas em destaque, os quais são o Deserto, Pradarias, Florestas Tropicais, Florestas Temperadas, Chaparral, Savanas e Pantanal.
+</li>    
+        </random>
+    </template>
+  </category>
+ 
+         
+
+   <category>
+    <pattern> # BIOMAS # AMERICA LATINA # </pattern>
+    <template>
+        <srai> # BIOMAS # AMÉRICA LATINA # </srai>
+    </template>
+  </category>
+ 
+   
+          
+   <category>
+    <pattern> # BIOMAS # AMÉRICA # </pattern>
+    <template>
+        <random>
+        <li> Na América existem vários biomas, porém encontram-se 8 biomas em destaque que são a Tundra, Taiga, Deserto, Pradarias, Florestas Tropicais, Floresta Temperada, Savanas e Pantanal. Além desses biomas, existem outros biomas menores como as Zonas Litorâneas.
+</li>
+        <li> No continente Americano encontram-se muitos biomas, mas existem 8 biomas distintos que são a Tundra, Taiga, Deserto, Pradarias, Florestas Tropicais, Floresta Temperada, Savanas e Pantanal. Além desses biomas, encontram-se outros biomas menores como as Zonas Litorâneas.
+</li> 
+        <li> São muitos biomas existentes na América, mas existem 8 biomas principais, os quais são a Tundra, Taiga, Deserto, Pradarias, Florestas Tropicais, Floresta Temperada, Savanas e Pantanal. Além desses biomas, encontram-se outros biomas menores e exclusivos como a Caatinga, um bioma exclusivamente brasileiro.
+</li>    
+        </random>
+    </template>
+  </category>
+ 
+          
+          
+   <category>
+    <pattern> # BIOMAS # AMERICA # </pattern>
+    <template>
+        <srai> # BIOMAS # AMÉRICA # </srai>
+    </template>
+  </category>
+ 
+ 
+            
+  <category>
+    <pattern> # BIOMAS # EUROPA # </pattern>
+    <template>
+        <random>
+        <li> No continente Europeu encontram-se muitos biomas, mas existem 5 biomas distintos que são as Florestas Temperadas, Chaparral, Campos, Tundra e Taiga.
+</li>
+        <li> Na Europa existem vários biomas, porém encontram-se 5 biomas em destaque que são as Florestas Temperadas, Chaparral, Campos, Tundra e Taiga.
+</li> 
+        <li> São muitos biomas existentes na Europa, mas existem 5 biomas principais, os quais são as Florestas Temperadas, Chaparral, Campos, Tundra e Taiga.
+</li>    
+        </random>
+    </template>
+ </category>
+  
+
+            
+  <category>
+    <pattern> # BIOMAS # ÁSIA # </pattern>
+    <template>
+        <random>
+        <li> No continente asiatico encontram-se muitos biomas, mas existem 7 biomas distintos que são as Florestas Tropicais, Desertos, Florestas Temperadas, Chaparral, Campos, Tundra e Taiga.
+</li>
+        <li> Na Ásia existem vários biomas, porém encontram-se 7 biomas em destaque que são as Florestas Tropicais, Desertos, Florestas Temperadas, Chaparral, Campos, Tundra e Taiga.
+</li> 
+        <li> São muitos biomas existentes na Ásia, mas existem 7 biomas principais, os quais são as Florestas Tropicais, Desertos, Florestas Temperadas, Chaparral, Campos, Tundra e Taiga.
+</li>    
+        </random>
+    </template>
+ </category>
+ 
+ 
+ 
+ <category>
+    <pattern> # BIOMAS # ASIA # </pattern>
+    <template>
+        <srai> # BIOMAS # ÁSIA # </srai>
+    </template>
+ </category>
+    
+        
+                
+  <category>
+    <pattern> # BIOMAS # OCEANIA # </pattern>
+    <template>
+        <random>
+        <li> No continente oceânico encontram-se muitos biomas, mas existem 6 biomas distintos que são as Savanas, Desertos, Florestas Temperadas,  Florestas Tropicais, Chaparral e Campos.
+</li>
+        <li> Na Oceania existem vários biomas, porém encontram-se 6 biomas em destaque que são as Savanas, Desertos, Florestas Temperadas,  Florestas Tropicais, Chaparral e Campos.
+</li> 
+        <li> São muitos biomas existentes na Oceânia, mas existem 6 biomas principais, os quais são as Savanas, Desertos, Florestas Temperadas,  Florestas Tropicais, Chaparral e Campos.
+</li>    
+        </random>
+    </template>
+ </category>
+    
+ 
+                    
+  <category>
+    <pattern> # BIOMAS # OCEÂNIA # </pattern>
+    <template>
+        <srai> # BIOMAS # OCEANIA # </srai>
+    </template>
+ </category>
+    
+                        
+                        
+  <category>
+    <pattern> # BIOMAS # ÁFRICA # </pattern>
+    <template>
+        <random>
+        <li> No continente africano encontram-se muitos biomas, mas existem 4 biomas distintos que são as Florestas Tropicais, Savanas, Desertos, Chaparral.
+</li>
+        <li> Na África existem vários biomas, porém encontram-se 4 biomas em destaque que são as Florestas Tropicais, Savanas, Desertos, Chaparral.
+</li> 
+        <li> São muitos biomas existentes na África, mas existem 4 biomas principais, os quais são as Florestas Tropicais, Savanas, Desertos, Chaparral.
+</li>    
+        </random>
+    </template>
+ </category>
+
+                        
+  
+  <category>
+    <pattern> # BIOMAS # AFRICA # </pattern>
+    <template>
+        <srai> # BIOMAS # ÁFRICA # </srai>
+    </template>
+ </category>
+                        
+        
+                        
+  <category>
+    <pattern> # BIOMAS # ANTÁRTIDA # </pattern>
+    <template>
+        <random>
+        <li> O único bioma em destaque da Antártida é a Tundra, por causa de suas extremas condições, que fazem ter um pequena variação de bioma. 
+</li>
+        <li> Na Antártida tem apenas um bioma distinto, que é a Tundra, pois o continente é muito extremo, com isso a variação de biomas é pequena.  
+</li> 
+        <li> Na Antártida tem um bioma, que é a Tundra, por ser um continente muito extremo não uma variação muito grande de biomas.  
+</li>    
+        </random>
+    </template>
+ </category>
+        
+
+                        
+  <category>
+    <pattern> # BIOMAS # ANTÁRTICA # </pattern>
+    <template>
+        <srai> # BIOMAS # ANTÁRTIDA # </srai>
+    </template>
+ </category>
+    
+    
+                        
+  <category>
+    <pattern> # BIOMAS # ANTARTICA # </pattern>
+    <template>
+        <srai> # BIOMAS # ANTÁRTIDA # </srai>
+    </template>
+ </category>
+        
+        
+                       
+  <category>
+    <pattern> # BIOMAS # ANTARTIDA # </pattern>
+    <template>
+        <srai> # BIOMAS # ANTÁRTIDA # </srai>
+    </template>
+ </category>
+         
+                         
+ 
+  <category>
+    <pattern> # BIOMA # </pattern>
+    <template>
+        <random>
+        <li> Bioma é um conjunto de vida, adaptada às condições ecológicas de uma certa região, local esse que tem clima, vegetação e fauna parecidas.  
+</li>
+        <li> Bioma é espaço geográfico, cujo clima, flora e fauna são parecidas, ou seja, um conjunto de seres vivos em uma região com condições ecológicas semelhantes.
+</li> 
+        <li> Bioma é um conjunto de ecossistemas, cujo esses ecossistemas são semelhantes em clima, flora e fauna.
+</li>    
+        </random>
+    </template>
+  </category>  
+  
+  
+   
+  <category>
+    <pattern> # BIOMAS # </pattern>
+    <template>
+       <srai> # BIOMA # </srai>
+    </template>
+  </category>  
+  
+  
+  
+  <category>
+    <pattern> # FAIXAS # TRANSIÇÃO # </pattern>
+    <template>
+        <random>
+        <li> As faixas de transição são áreas de transição entre biomas distintos e possuem características híbridas dos biomas ao seu redor.
+</li>
+        <li> As faixas de transição são territórios de troca entre biomas grandes e têm características híbridas desses biomas vizinhos.
+</li> 
+        <li> As faixas de transição são zonas de transferência entre biomas principais e possuem características híbridas dos biomas arredores.
+</li>    
+        </random>
+    </template>
+  </category> 
+  
+  
+  
+  <category>
+    <pattern> # ZONAS # TRANSIÇÃO # </pattern>
+    <template>
+        <srai> # FAIXAS # TRANSIÇÃO # </srai>
+    </template>
+  </category> 
+  
+  
+</aiml>

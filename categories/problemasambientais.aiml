@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    
+<category>
+    <pattern> # PROBLEMAS # AMBIENTAIS # </pattern>
+    <template>
+        <random>
+        <li> São efeitos nocivos no meio ambiente, que prejudicam os seres vivos.
+</li>
+        <li> É quando há perturbações no ecossistema, que traz prejuizos aos seres vivos.
+</li> 
+        <li> Geralmente são ações humanas que causam problemas no meio ambiente.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # PRINCIPAIS # PROBLEMAS # AMBIENTAIS # </pattern>
+    <template>
+        <random>
+        <li> O principal e mais urgente problema ambiental, é o efeito estufa, porém existem outros problemas como a escassez de água e o desmatamento.
+</li>
+        <li> O efeito estufa, escassez de água e desmatamento são os maiores problemas ambientais atualmente.
+</li> 
+        <li> As principais questões são: mudanças climáticas, desmatamento, superpopulação, escassez de água, extinção de espécies, degradação do solo e efeito estufa. 
+</li>    
+        </random>
+    </template>
+  </category>
+    
+  
+  
+  <category>
+    <pattern> # MUDANÇAS # CLIMÁTICAS # </pattern>
+    <template>
+        <random>
+        <li> É a mudança do clima mundial, ou seja, a elevação da temperatura do mundo, que tem grandes consequências para todo o meio ambiente.  
+</li>
+        <li> Esse termo se dá a alteração do clima em todo o globo, por causa das ações humanas.
+</li> 
+        <li> É provocado pelo homem, que provoca a elevação da temperatura do planeta, consequentemente as mudanças climáticas. 
+</li>    
+        <li> As mudanças climáticas são provocadas por ação humana, em sua maioria, tendo a Amazônia como ponto chave.
+</li>
+        <li> Ação humana provoca as mudanças climáticas, sendo a Amazônia um ponto decisivo neste problema.
+</li> 
+        <li> Os humanos são um dos causadores da mudança climática, sendo o que mais contribui com esse problema. 
+</li>
+        </random>
+    </template>
+  </category>
+    
+  
+       <category>
+    <pattern> # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+     <category>
+    <pattern> # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # MUDANÇA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+     <category>
+    <pattern> # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+      <category>
+    <pattern> # MUDANÇAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+     <category>
+    <pattern> # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+      <category>
+    <pattern> # MUDANÇA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+     <category>
+    <pattern> # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </pattern>
+    <template>
+        <random>
+        <li> Os principais motivos são a agricultura, a queima de materiais fósseis, a indústria e a pecuária.
+</li>
+        <li> A Indústria,a queima de materiais fósseis, a agricultura e a pecuária são os principais motivos para o acontecimento das mudanças climáticas. 
+</li> 
+        <li> O principal motivo é a liberação de CO2, e quem causa a liberação da maior parte desse poluente é a indústria.
+</li>    
+        </random>
+    </template>
+  </category>
+    
+  
+     <category>
+    <pattern> # MOTIVOS # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+     <category>
+    <pattern> # MOTIVOS # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # MOTIVOS # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # MOTIVO # MUDANÇAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MOTIVO # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MOTIVO # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+<category>
+    <pattern> # MOTIVO # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+<category>
+    <pattern> # MOTIVO # MUDANÇA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MOTIVO # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # MOTIVO # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+<category>
+    <pattern> # MOTIVO # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # MOTIVOS # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+
+
+  
+  <category>
+    <pattern> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </pattern>
+    <template>
+        <random>
+        <li> A medida mais urgente é reduzir ao máximo a emissão de gases poluentes.
+</li>
+        <li> Reflorestamento e a rápida substituição dos combustíveis fósseis.
+</li> 
+        <li> Reduzir as emissões de poluentes das atividades agropecuárias e os combustíveis fósseis.  
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCAO # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCAO # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCAO # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇAO # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÃO # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÃO # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # SOLUCOES # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCOES # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCOES # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇOES # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÕES # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANÇAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANCAS # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÕES # MUDANCAS # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # SOLUCAO # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCAO # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCAO # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇAO # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÃO # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÃO # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # SOLUCOES # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCOES # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCOES # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇOES # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÕES # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANÇA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANCA # CLIMÁTICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÕES # MUDANCA # CLIMATICAS # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # SOLUCAO # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCAO # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCAO # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇAO # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÃO # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÃO # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # SOLUCOES # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCOES # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCOES # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇOES # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÕES # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANÇAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANCAS # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÕES # MUDANCAS # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCAO # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCAO # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCAO # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇAO # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇAO # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÃO # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÃO # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÃO # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÃO # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # SOLUCOES # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCOES # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUCOES # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category> 
+  
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇOES # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # SOLUÇOES # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>    
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUCÕES # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUCÕES # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANÇA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+      
+  
+     <category>
+    <pattern> # SOLUÇÕES # MUDANCA # CLIMÁTICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # SOLUÇÕES # MUDANCA # CLIMATICA # </pattern>
+    <template>
+        <srai> # SOLUÇÃO # MUDANÇAS # CLIMÁTICAS # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # DESMATAMENTO # </pattern>
+    <template>
+        <random>
+        <li> É quando as florestas são destruídas, afetando os ecossistemas. 
+</li>
+        <li> Desmatamento é a destruição das florestas através da ação humana.
+</li> 
+        <li> É ação humana de destruir e desmatar o meio ambiente, assim desequilibrando ecossistema. 
+</li>    
+        </random>
+    </template>
+  </category>
+      
+  
+  
+  <category>
+    <pattern> # AQUECIMENTO # GLOBAL # AMAZÔNIA # </pattern>
+    <template>
+        <random>
+        <li> A Amazônia é o grande ponto chave para conter o aquecimento global, pois ela funciona como um “pulmão do mundo''. 
+</li>
+        <li> A floresta com maior diversidade do mundo, a Amazônia, é um ponto chave para conter o aquecimento global.
+</li> 
+        <li> Amazônia funciona como o principal reservatório de gás do efeito estufa, esse que gera o aquecimento global, para conter isso é necessário preservar a floresta amazônica e deter o desmatamento, caso isso não ocorra teremos eventos  climáticos extremos.
+</li>    
+        </random>
+    </template>
+  </category>
+    
+      
+  <category>
+    <pattern> # AQUECIMENTO # GLOBAL # AMAZONIA # </pattern>
+    <template>
+        <srai> # AQUECIMENTO # GLOBAL # AMAZÔNIA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # VARIABILIDADE # CLIMÁTICA # INCÊNDIOS # FLORESTAIS # </pattern>
+    <template>
+        <random>
+        <li> Quando os biomas são sujeitos a grande variabilidade climática, principalmente aos climas secos, a maiores chances de ocorrer incêndios, esses por sua vez aumentam os problemas ambientais.  
+</li>
+        <li> Quando as florestas estão sujeitas a grande variabilidade de clima, principalmente os mais secos, ela tende a ter maior probabilidade de queimar. 
+</li> 
+        <li> Os impactos ambientais são diversos, com a variabilidade climática terá riscos de secas, já que os ambientes ficam mais secos e com menor probabilidade de precipitação, contribuindo ainda mais para esses problemas, pois o fogo também libera gases nocivos que aumentam o efeito estufa, prejudicando assim a vida dos seres vivos. 
+</li>    
+        </random>
+    </template>
+  </category>
+      
+      
+  <category>
+    <pattern> # VARIABILIDADE # CLIMATICA # INCENDIOS # FLORESTAIS # </pattern>
+    <template>
+        <srai> # VARIABILIDADE # CLIMÁTICA # INCÊNDIOS # FLORESTAIS # </srai>
+    </template>
+  </category>
+  
+    <category>
+    <pattern> # VARIABILIDADE # CLIMÁTICA # INCENDIOS # FLORESTAIS # </pattern>
+    <template>
+        <srai> # VARIABILIDADE # CLIMÁTICA # INCÊNDIOS # FLORESTAIS # </srai>
+    </template>
+  </category>
+  
+    <category>
+    <pattern> # VARIABILIDADE # CLIMATICA # INCÊNDIOS # FLORESTAIS # </pattern>
+    <template>
+        <srai> # VARIABILIDADE # CLIMÁTICA # INCÊNDIOS # FLORESTAIS # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # PROBLEMAS # AMAZÔNIA # </pattern>
+    <template>
+        <random>
+        <li> A floresta vem sofrendo consecutivos desmatamentos ao longo dos anos, decorrentes de vários fatores como a mineração, agricultura e pecuária.
+</li>
+        <li> Os problemas da floresta amazônica são enormes, passando pelo desmatamento, aumento populacional e os problemas relacionados aos garimpeiros, isso tudo contribui para tais problemas.
+</li> 
+        <li> A Amazônia enfrenta diversos problemas, o pior deles é o desmatamento, que é decorrente de uma somatória de atividades agrícolas, industriais e do aumento populacional da região. Ademais, ao longo do tempo a taxa de desmatamento vem aumentando.
+</li>    
+        </random>
+    </template>
+  </category>
+      
+      
+    <category>
+    <pattern> # PROBLEMAS # AMAZONIA # </pattern>
+    <template>
+        <srai> # PROBLEMAS # AMAZÔNIA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PROBLEMA # AMAZONIA # </pattern>
+    <template>
+        <srai> # PROBLEMAS # AMAZÔNIA # </srai>
+    </template>
+  </category>  
+  
+  
+  <category>
+    <pattern> # PROBLEMA # AMAZÔNIA # </pattern>
+    <template>
+        <srai> # PROBLEMAS # AMAZÔNIA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # AQUECIMENTO # GLOBAL # EL NIÑO # </pattern>
+    <template>
+        <random>
+        <li> 2
+</li>
+        <li> 2
+</li> 
+        <li> 1
+</li>    
+        </random>
+    </template>
+  </category>
+        
+  
+  
+  <category>
+    <pattern> # BRANQUEAMENTO # CORAIS # </pattern>
+    <template>
+        <random>
+        <li> É quando os corais perdem sua coloração original.
+</li>
+        <li> São quando os corais perdem suas cores originais, deixando os corais esbranquiçados. 
+</li> 
+        <li> O termo “branqueamento”, é bem auto-explicativo, é quando os corais perdem suas cores e ficam com a cor branca. 
+</li>    
+        </random>
+    </template>
+  </category>
+        
+  
+  
+  <category>
+    <pattern> # COMO # OCORRE # BRANQUEAMENTO # CORAIS # </pattern>
+    <template>
+        <random>
+        <li> Esse ato ocorre, pois esses ecossistemas são extremamente frágeis e quando sujeito a variações de temperatura outros efeitos externos sofrem o seu branqueamento, perda de nutrientes e condições saudáveis.
+</li>
+        <li> O branqueamento dos corais ocorre quando há um aumento na temperatura da água que causa a perda de sua coloração natural.
+</li> 
+        <li> Essa ação ocorre principalmente por causa do aumento da temperatura, pois o esse aumento na água afeta as zooxantelas que perdem suas funções, uma delas é a coloração do coral.
+</li> 
+        <li> O branqueamento dos corais ocorre quando a perda de zooxantelas, essas que são células presentes nos corais e que são responsáveis pelas cores dos corais, quando as águas aquecem os corais perdem essas células.
+</li>  
+        <li> É causado pela perda de zooxantelas, esses organismos com que o coral produz seu pigmento, no caso suas cores.
+</li>
+        </random>
+    </template>
+  </category>
+        
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # BRANQUEAMENTO # CORAIS # </pattern>
+    <template>
+        <random>
+        <li> Esse problema pode causar a perda de todo um  ecossistema marinho, já que eles são fundamentais na nutrição de algumas espécies.
+</li>
+        <li> A perda de biodiversidade é o principal problema, tanto dos próprios corais, quanto das espécies que sobrevivem dele. 
+</li> 
+        <li> 1
+</li>    
+        </random>
+    </template>
+  </category>
+        
+        
+    <category>
+    <pattern> # CONSEQUENCIAS # BRANQUEAMENTO # CORAIS # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # BRAQUEAMENTO # CORAIS # </srai>
+    </template>
+  </category>  
+  
+  
+      <category>
+    <pattern> # CONSEQUÊNCIA # BRANQUEAMENTO # CORAIS # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # BRANQUEAMENTO # CORAIS # </srai>
+    </template>
+  </category>  
+  
+  
+      <category>
+    <pattern> # CONSEQUENCIA # BRANQUEAMENTO # CORAIS # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # BRANQUEAMENTO # CORAIS # </srai>
+    </template>
+  </category>  
+  
+  
+  
+  <category>
+    <pattern> # BRANQUEAMENTO # CORAIS # BRASIL # </pattern>
+    <template>
+        <random>
+        <li> O Brasil é um exemplo do branqueamento dos corais de recifes, sendo um exemplo mais evidente disso o branqueamento dos corais da Bahia ocorrendo esses estudos desde 1993.
+</li>
+        <li> No Brasil esses acontecimentos também ocorrem ao longo dos litorais, afetando uma enorme cadeia de ecossistemas aquáticos que necessitam dos corais. 
+</li> 
+        <li> Na Bahia, onde ocorreram pesquisas de 1993 sobre o tema, é mostrado como isso impacta o meio ambiente aquático, diminuindo assim a biodiversidade e quantidade de animais presentes naquela área. 
+</li>    
+        </random>
+    </template>
+  </category>
+        
+  
+  
+  <category>
+    <pattern> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # ÁGUA # </pattern>
+    <template>
+        <random>
+        <li>  A ligação entre o aquecimento das águas e o branqueamento é que o aquecimento é o principal causador do branqueamento dos corais.
+</li>
+        <li> O aumento de temperatura das águas do oceano é o principal causador da perda de coloração dos recifes de corais.
+</li> 
+        <li> O branqueamento dos corais é causado principalmente por causa do aquecimento das águas. 
+</li>    
+        </random>
+    </template>
+  </category>
+        
+  
+<category>
+    <pattern> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # AGUA # </pattern>
+    <template>
+        <srai> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # ÁGUA # </srai>
+    </template>
+  </category>
+  
+  
+ <category>
+    <pattern> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # OCEANO # </pattern>
+    <template>
+        <srai> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # ÁGUA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # GLOBAL # </pattern>
+    <template>
+        <random>
+        <li> O branqueamento dos corais têm uma importante ligação com aquecimento global, pois com o aquecimento das águas, que deriva do aquecimento global, é o principal causador do branqueamento, afetando uma cadeia enorme de biodiversidade que ele contempla.
+</li>
+        <li> Aquecimento global é o principal causador do aumento da temperatura das águas, provocando assim o branqueamento dos corais.
+</li> 
+        <li> Ligação que ocorre é que o aquecimento global faz com que aumente o nível de temperatura dos oceanos, fazendo com que atinja o ecossistema marinho, danificando assim os corais, provocando principalmente o branqueamento.
+</li>    
+        </random>
+    </template>
+  </category>
+        
+  
+   <category>
+    <pattern> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # </pattern>
+    <template>
+        <srai> # BRANQUEAMENTO # CORAIS # AQUECIMENTO # GLOBAL # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # DESMATAMENTO # </pattern>
+    <template>
+        <random>
+        <li> É a destruição ou deterioração de uma floresta nativa de determinada área.
+</li>
+        <li> Desmatamento é a destruição de florestas e vegetações de determinado local. 
+</li> 
+        <li> É a deterioração da vegetação nativa de determinada região, que é de extrema importância em uma série de fatores.
+</li>    
+        </random>
+    </template>
+  </category>
+        
+  
+  
+  <category>
+    <pattern> # CAUSAS # DESMATAMENTO # </pattern>
+    <template>
+        <random>
+        <li> As causas do desmatamento podem ser diversas, mas são principalmente de origens antrópicas.
+</li>
+        <li> O homem é o causador do desmatamento, sendo de maneira direta ou indiretamente.
+</li> 
+        <li> As causas do desmatamento são diversas, o ser humano é o principal causador, podendo ser através das atividades agrícolas, diárias, de mineração e entre outras.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # IMPORTANCIA # AMAZONIA  # </pattern>
+    <template>
+        <random>
+        <li> A sua importância é diversa, mas depende da vegetação em si, na região Amazônica é de importância em escala mundial.
+</li>
+        <li> A importância de uma floresta nativa pode estar relacionada a questões hidrológicas, erosão do solo, reprodução de animais, ecossistemas e entre outros.
+</li> 
+        <li> A importância de uma floresta nativa é enorme, tanto para a vida dos seres que lá habitam, quanto para o lugar em questão, estando relacionado às questões do solo, da água, econômicas para os  seres humanos, sociais e culturais.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # IMPORTÂNCIA # AMAZONIA # </pattern>
+    <template>
+        <srai> # IMPORTANCIA # AMAZONIA # </srai>
+    </template>
+  </category>     
+  
+     <category>
+    <pattern> # IMPORTANCIA # AMAZÔNIA # </pattern>
+    <template>
+        <srai> # IMPORTANCIA # AMAZONIA # </srai>
+    </template>
+  </category>
+  
+         <category>
+    <pattern> # IMPORTÂNCIA # AMAZÔNIA # </pattern>
+    <template>
+        <srai> # IMPORTANCIA # AMAZONIA # </srai>
+    </template>
+  </category>
+  
+  
+    
+<category>
+    <pattern> # AMAZÔNIA # </pattern>
+    <template>
+        <random>
+        <li> A Floresta Amazônica é a maior do mundo, principalmente em diversidade de vida, abrigando várias espécies e ecossistemas.
+</li>
+        <li> A Amazônia é a floresta com maior biodiversidade do mundo, mas é a que mais sofre com desmatamento.
+</li> 
+        <li> Essa região é uma floresta que possui uma das maiores biodiversidades do mundo, sendo extremamente complexa, diversa e dinâmica, abrigando milhares de espécies de plantas, seres e animais, que sofrem extremamente com o desmatamento.
+</li>    
+        </random>
+    </template>
+  </category>
+    
+    
+<category>
+    <pattern> # AMAZONIA # </pattern>
+    <template>
+        <srai> # AMAZÔNIA # </srai>
+    </template>
+  </category>
+
+  
+  
+  <category>
+    <pattern> # DESMATAMENTO # AMAZÔNICO # </pattern>
+    <template>
+        <random>
+        <li> O desmatamento na região Amazônica vem surgindo desde a era moderna, e aumentando gradativamente, tendo período de quedas, mas nos últimos anos a floresta vem perdendo grande parte da sua biodiversidade.
+</li>
+        <li> O desmatamento na Amazônia não é algo atual, decorre desde os tempos modernos, mas ocorrendo de forma mais intensa nos dias atuais.
+</li> 
+        <li> Desmatamentos na Amazônia são decorrentes de uma somatória de fatores, mas as principais causas são agricultura, os latifúndios, a mineração ilegal e extração de madeira de forma ilegal, o que mais colaboram para isso é a falta de fiscalização.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # DESMATAMENTO # AMAZONICO # </pattern>
+    <template>
+        <srai> # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+    
+        <category>
+    <pattern> # DESMATAMENTO # AMAZÔNIA # </pattern>
+    <template>
+        <srai> # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+  
+      <category>
+    <pattern> # DESMATAMENTO # AMAZONIA # </pattern>
+    <template>
+        <srai> # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+    
+ <category>
+    <pattern> # DESMATAMENTO # AMAZÔNICA # </pattern>
+    <template>
+        <srai> # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+  
+      <category>
+    <pattern> # DESMATAMENTO # AMAZONICA # </pattern>
+    <template>
+        <srai> # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+    
+    
+    
+    <category>
+    <pattern> # DESMATAMENTO # AQUECIMENTO # </pattern>
+    <template>
+        <random>
+        <li> Os desmatamentos têm uma grande relação com o aquecimento global, pois são as florestas que ajudam a reter gases que corroboram para a diminuição do aquecimento global.
+</li>
+        <li> O aquecimento global tem uma grande relação com o desmatamento da amazônia, já que, essa enorme floresta funciona como um pulmão do mundo.
+</li> 
+        <li> Quando ocorre o desmatamento as árvores deixam de armazenar os gases que ajudam no aquecimento global, a floresta Amazônica é conhecida como pulmão do mundo e é imprescindível para conter o aumento de temperatura no planeta,
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # DESMATAMENTO # QUEIMADAS # </pattern>
+    <template>
+        <random>
+        <li> A extração de madeira do território amazônico aumenta as chances de queimada da região.
+</li>
+        <li> A extração da vegetação nativa aumenta a probabilidade de queimadas, pois a floresta fica mais vulnerável.
+</li> 
+        <li> A extração de madeira deixa a região com maior vulnerabilidade, fazendo com que haja mais chances de incêndios e queimadas nessas regiões.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # IMPACTO # DESMATAMENTO # </pattern>
+    <template>
+        <random>
+        <li> Os impactos do desmatamento podem trazer para uma região são enormes, na região Amazônica pode trazer a perda de produtividade, erosão, mudanças hidrológicas, aumento da perda de biodiversidade e mais emissões de gases do efeito estufa.
+</li>
+        <li> Os desmatamentos podem trazer vários impactos para determinadas regiões, a mais frequente é a perda de diversidade e a diminuição das espécies locais.
+</li> 
+        <li> Os impactos do desmatamento são os mais diversos possíveis, podendo impactar uma somatória de fatores, o principal é na vida do ecossistema e dos animais que habitam, mas também pode ter causas no ciclo hídrico e no solo.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # DESMATAMENTO #  </pattern>
+    <template>
+        <srai> # IMPACTO # DESMATAMENTO #  </srai>
+    </template>
+  </category>
+  
+    <category>
+    <pattern> # CONSEQUÊNCIAS # DESMATAMENTO #  </pattern>
+    <template>
+        <srai> # IMPACTO # DESMATAMENTO #  </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EROSÃO # COBERTURA # VEGETAL # </pattern>
+    <template>
+        <random>
+        <li> Com o desmatamento ocorre a erosão, a perda de nutrientes, já que a cobertura vegetal original é retirada, ou seja, expondo esse solo.
+</li>
+        <li> Com o desmatamento ocorre a perda da proteção, causando assim a erosão e degradação do solo.
+</li> 
+        <li> Com a falta de cobertura vegetal, por causa do desmatamento, o solo sofre com os maiores impactos da chuva e dos ventos, causando assim sua degradação, erosão e a perda de nutrientes.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+      <category>
+    <pattern> # EROSAO # COBERTURA # VEGETAL #  </pattern>
+    <template>
+        <srai> # EROSÃO # COBERTURA # VEGETAL #  </srai>
+    </template>
+  </category>
+  
+  
+  
+    <category>
+    <pattern> # DIMINUIR # DESMATAMENTO # AMAZÔNICO # </pattern>
+    <template>
+        <random>
+        <li> O problema da Amazônia deve-se a problemas sociais e econômicos, sendo necessária a ação do governo e de entidades estatais.
+</li>
+        <li> É necessário que as autoridades vigentes atuem com maior firmeza e fiscalização nas áreas mais atingidas.
+</li> 
+        <li> O desmatamento ocorre por uma somatória de fatores, cabe às autoridades, no geral, atuar na com maior fiscalização, controlar as áreas mais atingidas e procurar soluções mais adequadas para combater esse mal.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # DIMINUIR # DESMATAMENTO # AMAZONICO # </pattern>
+    <template>
+        <srai> # DIMINUIR # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+    
+        <category>
+    <pattern> # DIMINUIR # DESMATAMENTO # AMAZÔNIA # </pattern>
+    <template>
+        <srai> # DIMINUIR # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+  
+      <category>
+    <pattern> # DIMINUIR # DESMATAMENTO # AMAZONIA # </pattern>
+    <template>
+        <srai> # DIMINUIR # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+    
+ <category>
+    <pattern> # DIMINUIR # DESMATAMENTO # AMAZÔNICA # </pattern>
+    <template>
+        <srai> # DIMINUIR # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+  
+      <category>
+    <pattern> # DIMINUIR # DESMATAMENTO # AMAZONICA # </pattern>
+    <template>
+        <srai> # DIMINUIR # DESMATAMENTO # AMAZÔNICO # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # CORTE # SELETIVO # </pattern>
+    <template>
+        <random>
+        <li> Quando é cortada uma árvore o efeito é devastador, principalmente dependendo de qual seja seu tamanho, pois a cada árvore morta outras 27 árvores são prejudicadas.
+</li>
+        <li> O corte seletivo de determinadas espécies, causam prejuízos a outras espécies com a sua perda.
+</li> 
+        <li> Em um ecossistema a dependência de uma espécie por outra, quando determinadas espécies são desmatadas, outras sofrem, tendo assim um efeito cascata.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # FENÔMENO # EL NIÑO # AMAZÔNIA # </pattern>
+    <template>
+        <random>
+        <li> Na Amazônia, El Niño causou grande destruição para sua biodiversidade, principalmente por causa da combinação de estações secas, que levou a grandes queimadas.
+</li>
+        <li> O El Niño pode agravar os problemas na região Amazônica, principalmente relacionados a sua perda de biodiversidade.
+</li> 
+        <li> A junção de um conjunto de fatores associados com El Niño, aumenta a probabilidade de queimadas e a perda de biodiversidade da região Amazônica.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  
+    <category>
+    <pattern> # MUDDANÇAS # HIDROLÓGICAS # DESAMATAMENTO # AMAZÔNIA # </pattern>
+    <template>
+        <random>
+        <li> O desmatamento provoca uma série de acontecimentos hidrológicos em determinadas regiões, na região Amazônica provoca enchentes, problemas no fluxo dos cursos da água do rio e desregula o ciclo de chuvas
+</li>
+        <li> O desmatamento na região Amazônica afeta o ciclo hidrológico da região.
+</li> 
+        <li> O desmatamento provoca mudanças hidrológicas na região Amazônica, tanto pelo fator de mudanças climáticas, no caso maiores períodos de seca, quanto pela permeabilidade dos rios que é afetada.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+</aiml>

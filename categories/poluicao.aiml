@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    
+ <category>
+        <pattern> # POLUIÇÃO # </pattern>
+    <template>
+        <random>
+        <li> Poluição é a alteração do equilíbrio no ecossistema, provocado pelo homem.
+</li>
+        <li> É a desarmonia de energia e substância, na natureza, tendo vários tipos. 
+</li> 
+        <li> Provocada pelo homem, em sua grande parte, é o desequilíbrio do meio ambiente.
+</li>
+        </random>
+    </template>
+  </category>
+
+
+   <category>
+    <pattern> # POLUICAO # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+
+    <category>
+    <pattern> # TIPOS # POLUIÇÃO # </pattern>
+    <template>
+        <random>
+        <li> Existem vários tipos de poluição, sendo as mais comuns: poluição hídrica, atmosférica, sonora, luminosa, radioativa e a do solo.
+ </li>
+        <li> Pode ser em cadeia, ocorrendo no ar, água e solo, afetando diretamente os animais e os seres humanos.
+ </li> 
+        <li> A poluição pode ocorrer principalmente no solo, ar e água, mas existem vários tipos de poluição como a radioativa.
+ </li>
+        </random>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # TIPOS # POLUICAO # </pattern>
+    <template>
+        <srai> # TIPOS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPOS # POLUIÇAO # </pattern>
+    <template>
+        <srai> # TIPOS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPOS # POLUICÃO # </pattern>
+    <template>
+        <srai> # TIPOS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUIÇÃO # </pattern>
+    <template>
+        <random>
+        <li> As consequências podem ser diversas, podendo afetar toda uma cadeia como a contaminação do ar, da água e do solo.  
+</li>
+        <li> Pode causar a morte e doenças para vários animais e seres humanos, por causa da contaminação.
+</li> 
+        <li> A poluição afeta mais os animais vulneráveis, podendo causar a sua morte e até extinção, já nos seres humanos, podem ter doenças e, em casos graves, a morte.   
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # CONSEQUÊNCIAS # POLUICAO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUIÇAO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUICÃO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇÃO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # CONSEQUENCIAS # POLUICAO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇAO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # POLUICÃO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇÃO # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # </srai>
+    </template>
+  </category>
+   
+   
+  <category>
+    <pattern> # PIOR # POLUIÇÃO # </pattern>
+    <template>
+        <random>
+        <li> O pior tipo de poluição é a radioativa, pois é a mais nociva para a saúde humana.
+</li>
+        <li> É relacionada à radioatividade, pois é a mais perigosa para a saúde humana.
+</li> 
+        <li> O tipo mais maligno de poluição é a radioativa.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # PIOR # POLUICAO # </pattern>
+    <template>
+        <srai> # PIOR # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PIOR # POLUIÇAO # </pattern>
+    <template>
+        <srai> # PIOR # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PIOR # POLUICÃO # </pattern>
+    <template>
+        <srai> # PIOR # POLUIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+        <pattern> # POLUIÇÃO # ATMOSFÉRICA # </pattern>
+    <template>
+        <random>
+        <li> Ela refere-se à poluição do ar, tendo várias consequências negativas, para todo o ecossistema.
+</li>
+        <li> A poluição do ar é o acúmulo de poluentes na atmosfera, que prejudicam a saúde de todos os seres vivos.
+</li> 
+        <li> A poluição atmosférica pode ser uma das mais nocivas para a saúde, pois ela está ligada ao ar que os seres vivos respiram.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICAO # ATMOSFERICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # ATMOSFERICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # ATMOSFERICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # ATMOSFERICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # POLUICAO # ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # AR # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUIÇAO # AR # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICÃO # AR # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICAO # AR # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </pattern>
+    <template>
+        <random>
+        <li> Ela se origina da ação dos seres humanos, pois os humanos despejam produtos químicos e tóxicos no meio ambiente.
+</li>
+        <li> Isso ocorre por causa da entrada de produtos tóxicos no ar, sendo o causador desse problema o homem. 
+</li> 
+        <li> A poluição da atmosfera tem como o sua origem os produtos químicos despejados no ar, por causa da ação humana.  
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUICAO ATMOSFERICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO ATMOSFERICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO ATMOSFERICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO ATMOSFERICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # ORIGEM # POLUICAO ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICAO # AR # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # AR # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # AR # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO # AR # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO ATMOSFÉRICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # SOLO #  </pattern>
+    <template>
+        <random>
+        <li> A poluição do solo ocorre quando é introduzido produtos químicos no solo, o que poderá acarretar na perda de substâncias essenciais. 
+ </li>
+        <li> Produtos nocivos são a principal causa da poluição, quando são colocados no solo, deixando o solo sem vida.
+ </li> 
+        <li> É quando os xenobióticos entram em contato com o solo, deixando ele tóxico.   
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # TERRA # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # TERRA # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICÃO # TERRA # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICAO # TERRA # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUIÇAO # SOLO # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICÃO # SOLO # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICAO # SOLO # </pattern>
+    <template>
+         <srai> # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO # SOLO # </pattern>
+    <template>
+        <random>
+        <li> A principal causa desse tipo de poluição são os cemitérios, lixões e a agricultura. 
+</li>
+        <li> As atividades que mais contribuem para a poluição do solo são: os lixões, cemitérios, agricultura e a indústria. 
+</li> 
+        <li>  Tem como principal origem as indústrias, lixões e agricultura. 
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICAO # SOLO # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # SOLO # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # SOLO # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUICAO # TERRA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # TERRA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # TERRA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO # TERRA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # SOLO # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # HÍDRICA #  </pattern>
+    <template>
+        <random>
+        <li>A poluição hídrica é aquela que ocorre nos rios, lagos, bacias hidrográficas,  oceanos e mares, causando sua poluição através de químicos e lixos.   
+</li>
+        <li> A poluição das águas é uma das mais graves, pois afeta um recurso essencial à vida, ela ocorre em desde os rios aos oceanos, com sua contaminação.
+</li> 
+        <li> É toda e qualquer poluição que contamina as águas, a deixando imprópria para a vida e consumo. 
+</li>
+        </random>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # POLUICAO # HIDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # HIDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # HIDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # HIDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # POLUICAO # HÍDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # HÍDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # HÍDRICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICAO # AGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # AGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # AGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # AGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # POLUICAO # ÁGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # ÁGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # ÁGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # ÁGUA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO # HÍDRICA # </pattern>
+    <template>
+        <random>
+        <li> Ela ocorre pelo despejo de químicos, lixos e aquecimento da água, tendo ação direta do ser humano. 
+</li>
+        <li> As principais são: a química, ocorre através de produtos tóxicos, lixos jogados de forma inapropriada e biológica, quando há contaminação de microorganismos.
+</li> 
+        <li> Tem grande influência do ser humano, com a contaminação química, biológica e os lixos mal descartados. 
+</li>
+        </random>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # ORIGEM # POLUICAO # HIDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # HIDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # HIDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO # HIDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # ORIGEM # POLUICAO # HÍDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # HÍDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # HÍDRICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICAO # AGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # AGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # AGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO # AGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # ORIGEM # POLUICAO # ÁGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # ÁGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # ÁGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO # ÁGUA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # HÍDRICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern># POLUIÇÃO # TÉRMICA # </pattern>
+    <template>
+        <random>
+        <li> Esse tipo de poluição ocorre quando a temperatura do meio aquático aumenta, causando vários malefícios para o ecossistema.
+</li>
+        <li> Quando a temperatura do meio aquático aumenta, faz com que diminua a disponibilidade de oxigênio, fazendo as espécies morrerem. 
+</li> 
+        <li> É o aquecimento das águas, que causa a morte dos animais marinhos.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICAO # TERMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # TERMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # TERMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # TERMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # POLUICAO # TÉRMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # TÉRMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # TÉRMICA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO # TÉRMICA #  </pattern>
+    <template>
+        <random>
+        <li> Sua origem é de ação humana, com o despejo de água quente pelas indústrias, com a siderúrgica. 
+</li>
+        <li> Tem como principal originação os processos industriais, que precisam de resfriamento, como na refrigeração de refinarias. 
+</li> 
+        <li> Sua principal origem vem da indústria e da produção de energia nuclear, onde no final do processo é despejado água quente nos rios e mares.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUICAO # TERMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # TERMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # TERMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # ORIGEM # POLUIÇÃO # TERMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # ORIGEM # POLUICAO # TÉRMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # TÉRMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # TÉRMICA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # TÉRMICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # VISUAL #  </pattern>
+    <template>
+        <random>
+        <li> Poluição visual é o excesso de elementos visuais em um determinado meio. 
+</li>
+        <li> Em geral está em grandes centros urbanos, é o acúmulo de elementos visuais. 
+</li> 
+        <li> Esse tipo de poluição é causada pelos inúmeros elementos visuais em uma localidade.  
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+   <category>
+    <pattern> # POLUICAO # VISUAL # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # VISUAL # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # VISUAL # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # VISUAL # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # VISUAL # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # VISUAL # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO # VISUAL #  </pattern>
+    <template>
+        <random>
+        <li> Ela tem origem nos grandes centros urbanos, com as publicidades e luzes. 
+</li>
+        <li> Esse tipo de poluição é mais comum nos centros urbanos, por causa de seus edifícios, luzes e grandes propagandas. 
+</li> 
+        <li> É originária dos grandes centros urbanos, que possui vários elementos visuais e que provocam esse tipo de poluição. 
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # ORIGEM # POLUICAO # VISUAL # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # VISUAL # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # VISUAL # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # VISUAL # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # VISUAL # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # VISUAL # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # LUMINOSA # </pattern>
+    <template>
+        <random>
+        <li> É o excesso de luz artificial.
+</li>
+        <li> A poluição luminosa é quando tem excesso de luz de origem artificial. 
+</li> 
+        <li> É quando há muita luz artificial. 
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+     <category>
+    <pattern> # POLUICAO # LUMINOSA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # LUMINOSA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # LUMINOSA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # LUMINOSA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # LUMINOSA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # LUMINOSA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇÃO # LUMINOSA #   </pattern>
+    <template>
+        <random>
+        <li> Ela teve origem a muito tempo atrás, com fogos de artifícios e velas.
+ </li>
+        <li> Tem origem há muitos anos com vela e fogos de artifícios, mas começou a ter grande impacto com a criação da eletricidade.  
+</li> 
+        <li> Atualmente ocorre nas  cidades, principalmente nas grandes, afetando seres humanos e animais.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+       <category>
+    <pattern> # ORIGEM # POLUICAO # LUMINOSA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # LUMINOSA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUIÇAO # LUMINOSA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # LUMINOSA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # ORIGEM # POLUICÃO # LUMINOSA # </pattern>
+    <template>
+        <srai> # ORIGEM # POLUIÇÃO # LUMINOSA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # SONORA # </pattern>
+    <template>
+        <random>
+        <li> É quando tem vários sons e ruídos atrapalhando a sua percepção auditiva. 
+</li>
+        <li> É quando tem vários sons e ruídos atrapalhando a sua percepção auditiva. 
+</li> 
+        <li> Poluição auditiva ocorre se tiver vários ruídos e sons em um mesmo meio.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICAO # SONORA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # SONORA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # SONORA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICAO # AUDITIVA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUIÇAO # AUDITIVA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # POLUICÃO # AUDITIVA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # POLUIÇÃO # AUDITIVA # </pattern>
+    <template>
+        <srai> # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </pattern>
+    <template>
+        <random>
+        <li> Afeta na saúde dos seres vivos e causa sérias consequências para a reprodução de alguns animais, além disso, alguns animais ficam desnorteados por causa da poluição auditiva.   
+</li>
+        <li> A poluição sonora afeta principalmente a saúde dos seres vivos, os deixando irritados, confusos, problemas auditivos e entre outros problemas.
+</li> 
+        <li> A poluição auditiva causa problemas na reprodução de alguns animais. Ademais, muitos seres vivos ficam irritados e confusos por causa do excesso de som no meio ambiente. 
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUICAO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUIÇAO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUICÃO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇÃO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # CONSEQUENCIAS # POLUICAO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇAO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # POLUICÃO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇÃO # SONORA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUÊNCIAS # POLUICAO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUIÇAO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUÊNCIAS # POLUICÃO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇÃO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # CONSEQUENCIAS # POLUICAO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇAO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # CONSEQUENCIAS # POLUICÃO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # CONSEQUENCIAS # POLUIÇÃO # AUDITIVA # </pattern>
+    <template>
+        <srai> # CONSEQUÊNCIAS # POLUIÇÃO # SONORA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # POLUIÇÃO # RADIOATIVA # </pattern>
+    <template>
+        <random>
+        <li> Ela é a radiação e elementos químicos jogados de forma errada no ambiente. 
+</li>
+        <li> A radiação existe de forma natural, mas os seres humanos vem jogando, em excesso, no meio, causando a poluição. 
+</li> 
+        <li> Ocorre quando elementos radioativos são jogados de forma errada.  
+</li>
+        </random>
+    </template>
+  </category>
+
+
+
+</aiml>

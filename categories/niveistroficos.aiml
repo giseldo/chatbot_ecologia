@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    
+    <category>
+        <pattern> # NÍVEIS # TRÓFICOS # </pattern>
+    <template>
+        <random>
+        <li> Nível trófico é um grupo de conjuntos bióticos e abióticos que forma um Ecossistema.
+</li>
+        <li> Também chamado de cadeia alimentar, é o “ciclo sem fim”.
+</li> 
+        <li> Nível trófico é um conjunto de seres bióticos e abióticos que formam a cadeia alimentar e possuem ações semelhantes.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # NIVEIS # TRÓFICOS #  </pattern>
+    <template>
+        <srai> # NÍVEIS # TRÓFICOS # </srai>
+    </template>
+  </category>
+  
+    
+  <category>
+    <pattern> # NÍVEIS # TROFICOS #  </pattern>
+    <template>
+        <srai> # NÍVEIS # TRÓFICOS # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # NIVEIS # TROFICOS #  </pattern>
+    <template>
+        <srai> # NÍVEIS # TRÓFICOS # </srai>
+    </template>
+  </category>
+  
+  
+      <category>
+        <pattern> # PRODUTORES # </pattern>
+    <template>
+        <random>
+        <li> São seres que produzem sua própria comida, sendo as plantas o maior exemplo.
+</li>
+        <li> São seres que através da fotossíntese produzem seu alimento.
+</li> 
+        <li> São seres autótrofos, ou seja, são aqueles que produzem seus próprios alimentos, como plantas e algas, através da fotossíntese.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # PRODUTOR #  </pattern>
+    <template>
+        <srai> # PRODUTORES # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+        <pattern> # COMSUMIDORES # </pattern>
+    <template>
+        <random>
+        <li> São seres que se alimentam de outros seres para sobreviver
+</li>
+        <li> São animais que consomem os seres para sobreviver.
+</li> 
+        <li> Consumidores são principalmente seres heterotróficos, aqueles que não conseguem produzir seu próprio alimento, ou seja, se alimentam de seres autotróficos e dos seres heterotróficos.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # COMSUMIDOR #  </pattern>
+    <template>
+        <srai> # COMSUMIDORES # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+        <pattern> # DECOMPOSITORES # </pattern>
+    <template>
+        <random>
+        <li> São os seres que decompõem matérias orgânicas.
+</li>
+        <li> Representado principalmente pelos fungos, são os que ajudam na decomposição da matéria orgânica.
+</li> 
+        <li> Os decompositores são aqueles que a cada nível da cadeia decompõem os restos de material orgânico, sendo os principais representantes os fungos, reciclando e reutilizando a matéria orgânica.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # DECOMPOSITOR #  </pattern>
+    <template>
+        <srai> # DECOMPOSITORES # </srai>
+    </template>
+  </category>
+  
+  
+</aiml>

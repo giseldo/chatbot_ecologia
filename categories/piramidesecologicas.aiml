@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+ <category>
+    <pattern> # PIRAMIDE # ECOLOGICA # </pattern>
+    <template>
+        <random>
+        <li> São representações em forma de gráfica sobre as interações tróficas de espécies numa comunidade .
+</li>
+        <li> É uma representação gráfica do fluxo de energia e matéria de um ecossistema.
+</li> 
+        <li> São representações gráficas das interações de uma espécie com uma comunidade em relação ao fluxo de energia e matéria.
+</li>
+        </random>
+    </template>
+  </category>
+
+
+   <category>
+    <pattern> # PIRÂMIDE # ECOLÓGICA # </pattern>
+    <template>
+        <srai> # PIRAMIDE # ECOLOGICA # </srai>
+    </template>
+  </category>
+
+
+    <category>
+    <pattern> # PIRAMIDE # ECOLÓGICA # </pattern>
+    <template>
+        <srai> # PIRAMIDE # ECOLOGICA # </srai>
+    </template>
+  </category>
+
+
+   <category>
+    <pattern> # PIRÂMIDE # ECOLOGICA # </pattern>
+    <template>
+        <srai> # PIRAMIDE # ECOLOGICA # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # QUAIS # TIPO # PIRAMIDE # ECOLOGICA # </pattern>
+    <template>
+        <random>
+        <li> Número, biomassa e energia. 
+</li>
+        <li> Biomassa, energia e número.
+</li> 
+        <li> Energia, biomassa e número .
+</li>
+        </random>
+    </template>
+  </category>
+
+
+ <category>
+    <pattern> # QUAIS # TIPO # PIRÂMIDE # ECOLÓGICA # </pattern>
+    <template>
+        <srai> # QUAIS # TIPO # PIRAMIDE # ECOLOGICA # </srai>
+        </template>
+  </category>
+
+
+ <category>
+    <pattern> # QUAIS # TIPO # PIRÂMIDE # ECOLOGICA # </pattern>
+    <template>
+        <srai> # QUAIS # TIPO # PIRAMIDE # ECOLOGICA # </srai> 
+        </template>
+  </category>
+
+
+ <category>
+    <pattern> # QUAIS # TIPO # PIRAMIDE # ECOLÓGICA # </pattern>
+    <template>
+        <srai> # QUAIS # TIPO # PIRAMIDE # ECOLOGICA # </srai>
+    </template>
+  </category>
+
+
+
+<category>
+    <pattern> # PIRAMIDE # NUMERO # </pattern>
+    <template>
+        <random>
+        <li> São pirâmides em que é mostrado a quantidade de seres em cada nível trófico, podendo às vezes ser invertida. 
+</li>
+        <li> São pirâmides que mostram o número de indivíduos presente em cada nível trófico.
+</li> 
+        <li> Trata-se de uma representação gráfica sobre o número de indivíduos em cada nível trófico .
+</li>
+        </random>
+    </template>
+  </category>
+
+
+ <category>
+    <pattern> # PIRÂMIDE # NÚMERO # </pattern>
+    <template>
+        <srai> # PIRAMIDE # NUMERO # </srai>
+    </template>
+  </category>
+  
+
+<category>
+    <pattern> # PIRAMIDE # NÚMERO # </pattern>
+    <template>
+        <srai> # PIRAMIDE # NUMERO # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # PIRÂMIDE # NUMERO # </pattern>
+    <template>
+        <srai> # PIRAMIDE # NUMERO # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # PIRAMIDE # BIOMASSA # </pattern>
+    <template>
+        <random>
+        <li> É uma pirâmide que representa a quantidade de matéria orgânica que tem em cada nível trófico no corpo dos seres vivos. 
+</li>
+        <li> É uma pirâmide que representa graficamente a quantidade de matéria presente nos corpos dos organismos.
+</li> 
+        <li> São pirâmides que mostram a quantidade de matéria orgânica disponível em cada nível trófico. .
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PIRÂMIDE # BIOMASSA # </pattern>
+    <template>
+        <srai> # PIRAMIDE # BIOMASSA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PIRAMIDE # ENERGIA # </pattern>
+    <template>
+        <random>
+        <li> É uma pirâmide que mostra a quantidade de energia, em que a energia vai diminuindo em direção aos níveis mais altos. 
+</li>
+        <li> Trata-se de uma pirâmide em que é mostrado graficamente a quantidade de energia em que os produtores sempre terão a quantidade mais elevada.
+</li> 
+        <li> É uma pirâmide que demonstra a quantidade de energia nos níveis tróficos em que não pode ser invertida já que os produtores sempre terão a maior quantidade de energia.
+</li>
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # PIRÂMIDE # ENERGIA # </pattern>
+    <template>
+        <srai> # PIRAMIDE # ENERGIA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </pattern>
+    <template>
+        Uma comunidade que possui poucos produtores, em que apenas uma grande árvore consegue alimentar várias lagartas e outros herbivoros. A pirâmide ficaria invertida da seguinte forma
+    <image>https://static.todamateria.com.br/upload/pi/ra/pira_mide_de_na_meros_invertida12.jpg</image>
+    </template>
+  </category>
+  
+  
+      <category>
+    <pattern> # EXEMPLO # PIRÂMIDE # INVERTIDA # NÚMERO # </pattern>
+    <template>
+        <srai> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # EXEMPLO # PIRÂMIDE # INVERTIDA # NUMERO # </pattern>
+    <template>
+        <srai> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # EXEMPLO # PIRAMIDE # INVERTIDA # NÚMERO # </pattern>
+    <template>
+        <srai> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # EXEMPLO # PIRAMIDE # BIOMASSA # </pattern>
+    <template>
+        Exemplo:
+    <image>https://static.todamateria.com.br/upload/bi/om/biomassa12.jpg</image>
+    </template>
+  </category>
+  
+  
+      <category>
+    <pattern> # EXEMPLO # PIRÂMIDE # BIOMASSA # </pattern>
+    <template>
+        <srai> # EXEMPLO # PIRAMIDE # BIOMASSA # </srai>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # EXEMPLO # PIRAMIDE # ENERGIA # </pattern>
+    <template>
+        Exemplo:
+    <image>https://static.todamateria.com.br/upload/en/er/energia12.jpg</image>
+    </template>
+  </category>
+  
+    
+      <category>
+    <pattern> # EXEMPLO # PIRÂMIDE # ENERGIA # </pattern>
+    <template>
+        <srai> # EXEMPLO # PIRAMIDE # ENERGIA # </srai>
+    </template>
+  </category>
+  
+  
+</aiml>

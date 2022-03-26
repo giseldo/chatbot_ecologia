@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml>
+    
+
+<category>
+    <pattern> # COLONIA # </pattern>
+    <template>
+        <random>
+            <li> A colônia é uma relação interespecífica harmônica, pois nela os indivíduos possuem uma interdependência, em que estão interligados e não conseguiriam viver sozinhos. Exemplo: os corais.
+</li>
+            <li> É uma relação interespecífica harmônica em que os indivíduos estão ligados e dependem uns dos outros, podendo ou não haver divisão de trabalho. Exemplo :esponjas.
+</li>
+            <li> É uma relação em que organismos da mesma espécie estão ligados anatomicamente em que pode ou não ter divisão de trabalho. Exemplo:caravelas.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+<category>
+    <pattern> # COLÔNIA # </pattern>
+    <template>
+        <srai> # COLONIA # </srai>
+    </template>
+  </category>
+  
+
+  
+  <category>
+    <pattern> # SOCIEDADE # </pattern>
+    <template>
+        <random>
+            <li> São indivíduos de uma mesma espécie que vivem em sociedade, entretanto conseguiriam viver isolados, nestas sociedades existe divisão de trabalho, um exemplo são as abelhas que vivem em sociedade e sua divisão de trabalho ocorre em abelhas operárias, rainha e zangões.
+</li>
+            <li> Indivíduos da mesma espécie que vivem em sociedade com divisão de trabalho em que não estão ligados fisicamente. Exemplo: abelhas
+</li>
+            <li> São indivíduos da mesma espécie que vivem com divisão de trabalho,  e não estão ligados fisicamente. 
+</li>
+    
+        </random>
+        </template> 
+  </category>
+
+
+  
+  <category>
+    <pattern> # COMPETIÇÃO # </pattern>
+    <template>
+        <random>
+            <li> São indivíduos da mesma espécie que acabam competindo por recursos como alimento, área e território.
+</li>
+            <li> É quando seres da mesma espécie acabam competindo por recursos para sobrevivência como território, água ou luz.
+</li>
+            <li> São indivíduos da mesma espécie que acabam competindo por recursos como alimento, área e território.
+</li>
+    
+        </random>
+        </template> 
+  </category>
+  
+
+<category>
+    <pattern> # COMPETICÃO # </pattern>
+    <template>
+        <srai> # COMPETIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # COMPETICAO # </pattern>
+    <template>
+        <srai> # COMPETIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # COMPETIÇAO # </pattern>
+    <template>
+        <srai> # COMPETIÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # CANIBALISMO # </pattern>
+    <template>
+        <random>
+            <li> É uma relação interespecífica desarmônica que seres da mesma espécie se matam e se alimentam uns dos outros.
+</li>
+            <li> É quando indivíduos da mesma espécie se alimentam uns dos outros.
+</li>
+            <li> Trata-se de uma relação interespecífica desarmônica em que indivíduos da mesma espécie se alimentam uns dos outros.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+
+<category>
+    <pattern> # COMENSALISMO # </pattern>
+    <template>
+        <random>
+            <li> É uma relação interespecífica harmônica em que seres de diferentes espécies interagem uns com os outros e apenas um dos dois ganha algum benefício e o outro não sofre nenhum prejuízo. Exemplo urubu se alimentando dos restos de alimentos jogados em ambiente aberto.
+</li>
+            <li> Trata-se de uma relação interespecífica harmônica em que um indivíduo ganha algum benefício e o outro não sofre nenhum prejuízo um exemplo disto os abutres se alimentarem dos restos deixados pelos leões.
+</li>
+            <li> Ocorre entre seres de espécie diferente em que  uma espécie é beneficiada sem causar dano a outra que não recebe nenhum benefício ou malefício, um exemplo disto é as hienas que se alimentam dos restos de comida do leão.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+
+<category>
+    <pattern> # INQUILISMO # </pattern>
+    <template>
+        <random>
+            <li> É uma relação interespecífica harmônica em que um inquilino se abriga ou usa o corpo de outra espécie de suporte, sem prejudicá-lo, um exemplo disto é o pepino do mar e o peixe agulha.
+</li>
+            <li> É quando um indivíduo utiliza o corpo de outra espécie como suporte ou como abrigo, sendo assim uma relação interespecífica harmônica, um exemplo disto são as plantas epífitas que vivem sobre o tronco de árvores.
+</li>
+            <li> Trata-se de uma relação interespecífica harmônica em que um organismo se abriga ou utiliza o corpo de outra espécie como suporte, um exemplo disto é o Fierásfer e pepino-do-mar.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+<category>
+    <pattern> # MUTUALISMO # </pattern>
+    <template>
+        <random>
+            <li> O mutualismo consiste numa associação entre duas espécies em que ambas são beneficiadas e só conseguem viver na presença uma da outra.
+</li>
+            <li> Consiste numa relação em que uma espécie depende da outra e sua sobrevivência depende de ambas estarem juntas.
+</li>
+            <li> O mutualismo é uma relação interespecífica harmônica em que duas espécies dependem uma da outra e recebem benefícios por isso, entretanto   só conseguem sobreviver juntas.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+<category>
+    <pattern> # PROTOCOOPERAÇÃO # </pattern>
+    <template>
+        <random>
+            <li> É uma relação interespecífica harmônica em que dois indivíduos vivem juntos, entretanto esta associação não é obrigatória.
+</li>
+            <li> A protocooperação é uma relação interespecífica harmônica em que dois seres de espécies diferentes vivem juntos, entretanto esta parceria não é obrigatória.
+</li>
+            <li> Consiste em uma relação em que duas espécies diferentes convivem juntas ambas se beneficiando, entretanto não é uma relação obrigatória.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+<category>
+    <pattern> # PROTOCOOPERACAO # </pattern>
+    <template>
+        <srai> # PROTOCOOPERAÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PROTOCOOPERAÇAO # </pattern>
+    <template>
+        <srai> # PROTOCOOPERAÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PROTOCOOPERACÃO # </pattern>
+    <template>
+        <srai> # PROTOCOOPERAÇÃO # </srai>
+    </template>
+  </category>
+  
+  <category>
+    <pattern> # PROTOCOPERACAO # </pattern>
+    <template>
+        <srai> # PROTOCOOPERAÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PROTOCOPERAÇAO # </pattern>
+    <template>
+        <srai> # PROTOCOOPERAÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # PROTOCOPERACÃO # </pattern>
+    <template>
+        <srai> # PROTOCOOPERAÇÃO # </srai>
+    </template>
+  </category>
+  
+  
+  
+<category>
+    <pattern> # AMENSALISMO # </pattern>
+    <template>
+        <random>
+            <li> A antibiose ou amensalismo é uma relação interespecífica em que uma espécie bloqueia o crescimento ou a reprodução de outra, pela liberação de substâncias tóxicas.
+</li>
+            <li> A antibiose ou amensalismo é uma relação interespecífica desarmônica em que uma espécie tem seu crescimento ou reprodução bloqueado pelas toxinas de outra espécie.
+</li>
+            <li> Amensalismo ou antibiose consiste numa situação em que um organismo bloqueia o crescimento doe outro ser  por meio de toxinas.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+
+<category>
+    <pattern> # PARASITISMO # </pattern>
+    <template>
+        <random>
+            <li> O parasitismo consiste numa relação em que um ser se instala no corpo de um organismo causando prejuízos, pois se nutre do hospedeiro o que pode causar a morte dele.
+</li>
+            <li> O parasitismo é uma relação interespecífica desarmônica em que o hospedeiro se prejudica pois o outro ser estará se nutrindo do corpo do hospedeiro, o que no futuro pode gerar a morte dele.
+</li>
+            <li> É uma relação ecológica em que um organismo usa o corpo de outra espécie para retirar os nutrientes necessários para sua sobrevivência, o que traz inúmeros problemas ao hospedeiro podendo chegar até a morte dele.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+
+<category>
+    <pattern> # PREDATISMO # </pattern>
+    <template>
+        <random>
+            <li> O predatismo é uma relação em que uma espécie utiliza outra como fonte de alimento, em que a espécie caçadora se beneficia e a outra sai no prejuízo.
+</li>
+            <li> O predatismo consiste numa relação interespecífica harmônica em que a espécie que está caçando se beneficia e a caça se prejudica, visto que ela será alimento do caçador.
+</li>
+            <li> O predatismo é uma relação em que uma espécie caça e se alimenta de outra espécie.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+
+<category>
+    <pattern> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </pattern>
+    <template>
+        <random>
+            <li> São relações que ocorrem entre seres da mesma espécie em que nenhum dos dois sofre algum prejuízo
+</li>
+            <li> Trata-se de relações entre dois seres da mesma espécie em que o prejuízo é nulo para ambos.
+</li>
+            <li> São relações em que membros da mesma espécie não sofrem nenhum prejuízo pela associação.
+</li>
+        </random>
+        </template> 
+  </category>
+
+
+<category>
+    <pattern> # RELACAO # INTRAESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTRAESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTRAESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+
+<category>
+    <pattern> # RELACAO # INTRAESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELACAO # INTRAESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTRAESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTRAESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇAO # INTRAESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇÃO # INTRAESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTRAESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTRAESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # RELACÃO # INTRAESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACÃO # INTRAESPECÍFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACAO # INTRAESPECÍFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </pattern>
+    <template>
+        <random>
+            <li> São relações que ocorrem entre seres de espécie diferente em que nenhum dos dois sofrem prejuízo, podendo ambos serem beneficiados por esta associação.
+</li>
+            <li> Trata-se de relações entre dois seres de espécie diferentes em que não há prejuízo para nenhum dos dois, podendo existirem benefícios para ambos.
+</li>
+            <li> São relações em que os membros de espécies diferentes se associam, sem que haja prejuízo para ambos e sim benefícios a pelo menos um.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # RELACAO # INTERESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTERESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTERESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+
+<category>
+    <pattern> # RELACAO # INTERESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELACAO # INTERESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTERESPECIFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTERESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇAO # INTERESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇÃO # INTERESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTERESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTERESPECÍFICA HARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # RELACÃO # INTERESPECIFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACÃO # INTERESPECÍFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACAO # INTERESPECÍFICA HARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA HARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇÃO INTRAESPECÍFICA DESARMÔNICA</pattern>
+    <template>
+        <random>
+            <li>São relações que ocorrem entre seres da mesma espécie em que ao menos um dos dois seres irá sofrer algum prejuízo.
+</li>
+            <li>Trata-se de relações entre dois seres da mesma espécie em que há prejuízo para pelo menos um dos dois.
+</li>
+            <li>São relações em que membros da mesma espécie se associam e um ou os dois sofrem prejuízos devido a esta associação.
+</li>
+        </random>
+        </template> 
+  </category>
+
+  
+  <category>
+    <pattern> # RELACAO # INTRAESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTRAESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTRAESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+
+<category>
+    <pattern> # RELACAO # INTRAESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELACAO # INTRAESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTRAESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTRAESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇAO # INTRAESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇÃO # INTRAESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTRAESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTRAESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # RELACÃO # INTRAESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACÃO # INTRAESPECÍFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACAO # INTRAESPECÍFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTRAESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </pattern>
+    <template>
+        <random>
+            <li> São relações entre seres de espécie diferente em que ao menos um dos dois sofrerá algum prejuízo.
+</li>
+            <li> Trata-se de relações entre dois seres de espécie diferentes em que um dos dois ou ambos sofreram prejuízo com a associação.
+</li>
+            <li> São relações em que membros de espécies diferentes se associam e ao menos um dos dois sofrerá algum tipo de prejuízo.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+    <category>
+    <pattern> # RELACAO # INTERESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTERESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTERESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+
+<category>
+    <pattern> # RELACAO # INTERESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELACAO # INTERESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTERESPECIFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇAO # INTERESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇAO # INTERESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # RELAÇÃO # INTERESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELAÇÃO # INTERESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+<category>
+    <pattern> # RELACÃO # INTERESPECÍFICA DESARMONICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # RELACÃO # INTERESPECIFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACÃO # INTERESPECÍFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+    
+    
+    <category>
+    <pattern> # RELACAO # INTERESPECÍFICA DESARMÔNICA # </pattern>
+    <template>
+        <srai> # RELAÇÃO # INTERESPECÍFICA DESARMÔNICA # </srai>
+    </template>
+  </category>
+  
+  
+  
+ <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # COLONIA # </pattern>
+    <template> Intraespecífica harmônica.</template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # SOCIEDADE # </pattern>
+    <template> Intraespecífica harmônica.</template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # COMPETIÇÃO # </pattern>
+    <template> Intraespecífica desarmônica ou interespecífica harmônica.</template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # CANIBALISMO # </pattern>
+    <template> Intraespecífica desarmônica ou interespecífica harmônica.</template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # COMENSALISMO # </pattern>
+    <template> Interespecífica harmônica.</template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # INQUILISMO # </pattern>
+    <template> Interespecífica harmônica.</template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # MUTUALISMO # </pattern>
+    <template> Interespecífica harmônica.</template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # PROTOCOOPERAÇÃO # </pattern>
+    <template> Interespecífica harmônica.</template> 
+  </category>
+  
+
+ <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # ESCLAVAGISMO # </pattern>
+    <template> Interespecífica harmônica.</template> 
+  </category>
+
+
+  
+   <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # SINFILIA # </pattern>
+    <template> Interespecífica harmônica.</template> 
+  </category>
+  
+
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # AMENSALISMO # </pattern>
+    <template> Interespecífica desarmônica.</template> 
+  </category>
+  
+
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # ANTIBIOSE # </pattern>
+    <template> Interespecífica desarmônica.</template> 
+  </category>
+  
+
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # PARASITISMO # </pattern>
+    <template> Interespecífica desarmônica.</template> 
+  </category>
+  
+  
+  <category>
+    <pattern> # TIPO # RELAÇÃO ECOLOGICA # PREDATISMO # </pattern>
+    <template> Interespecífica desarmônica.</template> 
+  </category>
+  
+
+
+  <category>
+    <pattern># DIFERENÇA # PROTOCOOPERAÇÃO # MUTUALISMO # </pattern>
+    <template>
+        <random>
+            <li> A diferença entre protocooperação e mutualismo é que o mutualismo é uma relação obrigatória em que uma espécie não consegue viver sem a outra, já a protocooperação esta relação entre as duas espécies não é obrigatória.
+</li>
+            <li> A diferença entre os dois é que na protocooperação as espécies vivem juntas mas é algo facultativo para suas sobrevivências, já no mutualismo esta relação é obrigatória para a sobrevivência de ambos.
+</li>
+            <li> São diferentes, pois enquanto o mutualismo é obrigatório para as espécies sobreviverem, a protocooperação é facultativa podendo ambos viverem separados.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # COLONIA # </pattern>
+    <template>
+        <random>
+            <li> Corais.
+</li>
+            <li> Caravela-portuguesa.
+</li>
+            <li> Esponja.
+</li>
+    
+        </random>
+        </template> 
+  </category>
+  
+  
+   <category>
+    <pattern> # EXEMPLO # SOCIEDADE # </pattern>
+    <template>
+        <random>
+            <li> Abehas.
+</li>
+            <li> Cupins.
+</li>
+            <li> Humanos.
+</li>
+    
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # COMPETIÇÃO # </pattern>
+    <template>
+        <random>
+            <li> Leões brigando por território.
+</li>
+            <li> Ursos brigando por território
+</li>
+            <li> Veados brigando por território.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+
+  <category>
+    <pattern> # EXEMPLO # CANIBALISMO # </pattern>
+    <template>
+        <random>
+            <li> Aranha fêmea da espécie viúva negra.
+</li>
+            <li> Louva Deus.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+   <category>
+    <pattern> # EXEMPLO # COMENSALISMO # </pattern>
+    <template>
+        <random>
+            <li> Tubarão e peixe piloto.
+</li>
+            <li> Peixe-palhaço e a anêmona-do-mar.
+</li>
+            <li> Rêmora e outros peixes.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+   <category>
+    <pattern> # EXEMPLO # INQUILISMO # </pattern>
+    <template>
+        <random>
+            <li> Peixe agulha e pepino do mar.
+</li>
+            <li> Plantas epífitas que vivem sobre o tronco de árvores.
+</li>
+            <li> Fierásfer e pepino-do-mar.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+   <category>
+    <pattern> # EXEMPLO # MUTUALISMO # </pattern>
+    <template>
+        <random>
+            <li> Fungos e líquens.
+</li>
+            <li> A anêmona do mar e o caranguejo paguro.
+</li>
+            <li> Cupins e protozoários.
+</li>
+        </random>
+        </template> 
+  </category>
+ 
+  
+  
+  <category>
+    <pattern> # EXEMPLO # PROTOCOOPERAÇÃO # </pattern>
+    <template>
+        <random>
+            <li> Anum e bovinos.
+</li>
+            <li> Caranguejo paguro e anêmona do mar.
+</li>
+            <li> Crocodilo africano e pássaro palito.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+   <category>
+    <pattern> # EXEMPLO # ESCLAVAGISMO # </pattern>
+    <template>
+        <random>
+            <li> Humanos com as abelhas.
+</li>
+            <li> Pulgões com as formigas.
+</li>
+            <li> Fragatas com as gaivotas.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # SINFILIA # </pattern>
+    <template>
+        <random>
+            <li> Humanos com as abelhas.
+</li>
+            <li> Pulgões com as formigas.
+</li>            
+            <li> Fragatas com as gaivotas.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # ANTIBIOSE # </pattern>
+    <template>
+        <random>
+            <li> Maré vermelha.
+</li>
+            <li> Eucalipto.
+</li>
+            <li> Árvores altas e de grandes dimensões.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # AMENSALISMO # </pattern>
+    <template>
+        <random>
+            <li> Maré vermelha.
+</li>
+            <li> Eucalipto.
+</li>
+            <li> Árvores altas e de grandes dimensões. 
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # PARASITISMO # </pattern>
+    <template>
+        <random>
+            <li> Lombrigas no intestino humano.
+</li>
+            <li> Piolho da cabeça e ser humano.
+</li>
+            <li> Cipó-chumbo e outra planta.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+  <category>
+    <pattern> # EXEMPLO # PREDATISMO # </pattern>
+    <template>
+        <random>
+            <li> Serpentes e ratos.
+</li>
+            <li> Leões e zebras.
+</li>
+            <li> Urso e peixe.
+</li>
+        </random>
+        </template> 
+  </category>
+  
+  
+  
+   <category>
+    <pattern> # RELAÇÕES ECOLOGICAS # </pattern>
+    <template>
+        <random>
+        <li> São interações entre os seres vivos.
+</li>
+        <li> Trata- se de interações feitas entre seres vivos da mesma espécie ou de espécie diferente.
+</li> 
+        <li> São interações que ocorrem entre seres vivos. 
+</li>
+        </random>
+    </template>
+  </category>
+
+
+</aiml>

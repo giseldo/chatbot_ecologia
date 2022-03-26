@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml>
+
+<category>
+    <pattern> # HELLO # </pattern>
+    <template>
+        <random>
+        <li> Hi, eu sou o chatbot Ecowê, faça uma pergunta para mim em português.  
+</li>
+        <li> Hello, eu sou um chatbot de ecologia e meu nome é Ecowê, me faça uma pergunta em português.
+</li> 
+        <li> Hey, eu sou um chatbot e meu nome é Ecowê, me faça uma pergunta em português. 
+</li>    
+        </random>
+    </template>
+  </category>
+
+
+<category>
+    <pattern> # HI # </pattern>
+    <template>
+        <srai> # HELLO # </srai>
+    </template>
+  </category>
+
+
+</aiml>
+

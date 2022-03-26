@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+  
+  <category>
+    <pattern> # QUE # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <random>
+        <li> Nicho ecológico trata-se do modo de vida de uma espécie dentro de seu habitat.
+</li>
+        <li> Nicho ecológico trata-se de um conjunto de fatores sobre um determinado organismo como na alimentação, quais são seus predadores, período fertil ou seja todas as informações sobre uma determinada espécie.    
+</li> 
+        <li> Nicho ecológico são as atividades realizadas por uma espécie como moradia, alimentação, período e local de reprodução, entre outros.
+
+</li>    
+        </random>
+    </template>
+  </category>
+    
+  
+  <category>
+    <pattern> # QUE # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # QUE # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # OQUE # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <srai> # QUE # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # OQUE # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # QUE # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+    
+    
+    
+  <category>
+    <pattern> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <random>
+        <li> Habitat consiste no ambiente em que a espécie vive, já o nicho ecológico trata-se do seu modo de vida.
+</li>
+        <li> O nicho ecológico são os fatores sobre um determinado organismo, já o habitat é local que aquele ser vivo habita. 
+</li> 
+        <li> A diferença entre os dois consiste em que o habitat é o local que o organismo reside, já o nicho ecológico são as atividades realizadas por determinada espécie. 
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # DIFERENCA # HABITAT # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+     
+     
+     <category>
+    <pattern> # DIFERENÇA # HABITAT # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern> # DIFERENCA # HABITAT # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <srai> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+  
+     
+  <category>
+    <pattern> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <random>
+        <li> As duas espécies entram em competição pelos recursos.
+</li>
+        <li> Haverá uma competição entre as duas espécies pelos recursos no ambiente. 
+</li> 
+        <li> Devido possuírem o mesmo nicho ecológico, as duas espécies entrarão em competição. 
+</li>    
+        </random>
+    </template>
+  </category>
+    
+  
+  <category>
+    <pattern> # ESPECIES # POSSUEM # MESMO # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+      
+  
+  <category>
+    <pattern> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+      
+  
+  <category>
+    <pattern> # ESPECIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <srai> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+  
+  
+       
+  <category>
+    <pattern> # EXEMPLO # NICHO # ECOLÓGICO # </pattern>
+    <template>
+        <random>
+        <li> Gafanhotos se alimentam de capim.
+</li>
+        <li> Leões caçam zebras nas savanas.
+</li> 
+        <li> Os pássaros se alimentam de sementes nas florestas.
+</li>    
+        </random>
+    </template>
+  </category>
+  
+  
+    <category>
+    <pattern> # EXEMPLO # NICHO # ECOLOGICO # </pattern>
+    <template>
+        <srai> # EXEMPLO # NICHO # ECOLÓGICO # </srai>
+    </template>
+  </category>
+  
+    
+</aiml>
